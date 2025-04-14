@@ -1,0 +1,1599 @@
+{1, "Yang"},{5, "FCoin"},
+    {10, "Kılıç"}, {11, "Kılıç +1"}, {12, "Kılıç +2"},
+    {13, "Kılıç +3"}, {14, "Kılıç +4"}, {15, "Kılıç +5"},
+    {16, "Kılıç +6"}, {17, "Kılıç +7"}, {18, "Kılıç +8"}, {19, "Kılıç +9"},
+
+    {20, "Uzun Kılıç"}, {21, "Uzun Kılıç +1"}, {22, "Uzun Kılıç +2"},
+    {23, "Uzun Kılıç +3"}, {24, "Uzun Kılıç +4"}, {25, "Uzun Kılıç +5"},
+    {26, "Uzun Kılıç +6"}, {27, "Uzun Kılıç +7"}, {28, "Uzun Kılıç +8"}, {29, "Uzun Kılıç +9"},
+
+    {30, "Hilal Kılıç"}, {31, "Hilal Kılıç +1"}, {32, "Hilal Kılıç +2"},
+    {33, "Hilal Kılıç +3"}, {34, "Hilal Kılıç +4"}, {35, "Hilal Kılıç +5"},
+    {36, "Hilal Kılıç +6"}, {37, "Hilal Kılıç +7"}, {38, "Hilal Kılıç +8"}, {39, "Hilal Kılıç +9"},
+
+    {40, "Bambu Kılıcı"}, {41, "Bambu Kılıcı +1"}, {42, "Bambu Kılıcı +2"},
+    {43, "Bambu Kılıcı +3"}, {44, "Bambu Kılıcı +4"}, {45, "Bambu Kılıcı +5"},
+    {46, "Bambu Kılıcı +6"}, {47, "Bambu Kılıcı +7"}, {48, "Bambu Kılıcı +8"}, {49, "Bambu Kılıcı +9"},
+
+    {50, "Geniş Kılıç"}, {51, "Geniş Kılıç +1"}, {52, "Geniş Kılıç +2"},
+    {53, "Geniş Kılıç +3"}, {54, "Geniş Kılıç +4"}, {55, "Geniş Kılıç +5"},
+    {56, "Geniş Kılıç +6"}, {57, "Geniş Kılıç +7"}, {58, "Geniş Kılıç +8"}, {59, "Geniş Kılıç +9"},
+
+    {60, "Gümüş Kılıç"}, {61, "Gümüş Kılıç +1"}, {62, "Gümüş Kılıç +2"},
+    {63, "Gümüş Kılıç +3"}, {64, "Gümüş Kılıç +4"}, {65, "Gümüş Kılıç +5"},
+    {66, "Gümüş Kılıç +6"}, {67, "Gümüş Kılıç +7"}, {68, "Gümüş Kılıç +8"}, {69, "Gümüş Kılıç +9"},
+
+    {70, "Orkide Kılıcı"}, {71, "Orkide Kılıcı +1"}, {72, "Orkide Kılıcı +2"},
+    {73, "Orkide Kılıcı +3"}, {74, "Orkide Kılıcı +4"}, {75, "Orkide Kılıcı +5"},
+    {76, "Orkide Kılıcı +6"}, {77, "Orkide Kılıcı +7"}, {78, "Orkide Kılıcı +8"}, {79, "Orkide Kılıcı +9"},
+
+    {80, "Sahte Kılıç"}, {81, "Sahte Kılıç +1"}, {82, "Sahte Kılıç +2"},
+    {83, "Sahte Kılıç +3"}, {84, "Sahte Kılıç +4"}, {85, "Sahte Kılıç +5"},
+    {86, "Sahte Kılıç +6"}, {87, "Sahte Kılıç +7"}, {88, "Sahte Kılıç +8"}, {89, "Sahte Kılıç +9"},
+
+    {90, "Barbar Kılıcı"}, {91, "Barbar Kılıcı +1"}, {92, "Barbar Kılıcı +2"},
+    {93, "Barbar Kılıcı +3"}, {94, "Barbar Kılıcı +4"}, {95, "Barbar Kılıcı +5"},
+    {96, "Barbar Kılıcı +6"}, {97, "Barbar Kılıcı +7"}, {98, "Barbar Kılıcı +8"}, {99, "Barbar Kılıcı +9"},
+
+    {100, "Kanlı Kılıç"}, {101, "Kanlı Kılıç +1"}, {102, "Kanlı Kılıç +2"},
+    {103, "Kanlı Kılıç +3"}, {104, "Kanlı Kılıç +4"}, {105, "Kanlı Kılıç +5"},
+    {106, "Kanlı Kılıç +6"}, {107, "Kanlı Kılıç +7"}, {108, "Kanlı Kılıç +8"}, {109, "Kanlı Kılıç +9"},
+
+    {110, "Büyük Kılıç"}, {111, "Büyük Kılıç +1"}, {112, "Büyük Kılıç +2"},
+    {113, "Büyük Kılıç +3"}, {114, "Büyük Kılıç +4"}, {115, "Büyük Kılıç +5"},
+    {116, "Büyük Kılıç +6"}, {117, "Büyük Kılıç +7"}, {118, "Büyük Kılıç +8"}, {119, "Büyük Kılıç +9"},
+
+    {120, "Uçan Büyücü Kılıcı"}, {121, "Uçan Büyücü Kılıcı +1"}, {122, "Uçan Büyücü Kılıcı +2"},
+    {123, "Uçan Büyücü Kılıcı +3"}, {124, "Uçan Büyücü Kılıcı +4"}, {125, "Uçan Büyücü Kılıcı +5"},
+    {126, "Uçan Büyücü Kılıcı +6"}, {127, "Uçan Büyücü Kılıcı +7"}, {128, "Uçan Büyücü Kılıcı +8"}, {129, "Uçan Büyücü Kılıcı +9"},
+
+    {130, "Yarımay Kılıcı"}, {131, "Yarımay Kılıcı +1"}, {132, "Yarımay Kılıcı +2"},
+    {133, "Yarımay Kılıcı +3"}, {134, "Yarımay Kılıcı +4"}, {135, "Yarımay Kılıcı +5"},
+    {136, "Yarımay Kılıcı +6"}, {137, "Yarımay Kılıcı +7"}, {138, "Yarımay Kılıcı +8"}, {139, "Yarımay Kılıcı +9"},
+
+    {140, "Muharebe Kılıcı"}, {141, "Muharebe Kılıcı +1"}, {142, "Muharebe Kılıcı +2"},
+    {143, "Muharebe Kılıcı +3"}, {144, "Muharebe Kılıcı +4"}, {145, "Muharebe Kılıcı +5"},
+    {146, "Muharebe Kılıcı +6"}, {147, "Muharebe Kılıcı +7"}, {148, "Muharebe Kılıcı +8"}, {149, "Muharebe Kılıcı +9"},
+
+    {150, "Hortlak Dişi Kılıcı"}, {151, "Hortlak Dişi Kılıcı +1"}, {152, "Hortlak Dişi Kılıcı +2"},
+    {153, "Hortlak Dişi Kılıcı +3"}, {154, "Hortlak Dişi Kılıcı +4"}, {155, "Hortlak Dişi Kılıcı +5"},
+    {156, "Hortlak Dişi Kılıcı +6"}, {157, "Hortlak Dişi Kılıcı +7"}, {158, "Hortlak Dişi Kılıcı +8"}, {159, "Hortlak Dişi Kılıcı +9"},
+
+    {160, "Su Perisi Kılıcı"}, {161, "Su Perisi Kılıcı +1"}, {162, "Su Perisi Kılıcı +2"},
+    {163, "Su Perisi Kılıcı +3"}, {164, "Su Perisi Kılıcı +4"}, {165, "Su Perisi Kılıcı +5"},
+    {166, "Su Perisi Kılıcı +6"}, {167, "Su Perisi Kılıcı +7"}, {168, "Su Perisi Kılıcı +8"}, {169, "Su Perisi Kılıcı +9"},
+
+    {170, "Azap Kılıcı"}, {171, "Azap Kılıcı +1"}, {172, "Azap Kılıcı +2"},
+    {173, "Azap Kılıcı +3"}, {174, "Azap Kılıcı +4"}, {175, "Azap Kılıcı +5"},
+    {176, "Azap Kılıcı +6"}, {177, "Azap Kılıcı +7"}, {178, "Azap Kılıcı +8"}, {179, "Azap Kılıcı +9"},
+
+    {180, "Zehir Kılıcı"}, {181, "Zehir Kılıcı +1"}, {182, "Zehir Kılıcı +2"},
+    {183, "Zehir Kılıcı +3"}, {184, "Zehir Kılıcı +4"}, {185, "Zehir Kılıcı +5"},
+    {186, "Zehir Kılıcı +6"}, {187, "Zehir Kılıcı +7"}, {188, "Zehir Kılıcı +8"}, {189, "Zehir Kılıcı +9"},
+
+    {190, "Aslan Kılıcı"}, {191, "Aslan Kılıcı +1"}, {192, "Aslan Kılıcı +2"},
+    {193, "Aslan Kılıcı +3"}, {194, "Aslan Kılıcı +4"}, {195, "Aslan Kılıcı +5"},
+    {196, "Aslan Kılıcı +6"}, {197, "Aslan Kılıcı +7"}, {198, "Aslan Kılıcı +8"}, {199, "Aslan Kılıcı +9"},
+
+    {200, "Keskin Pala"}, {201, "Keskin Pala +1"}, {202, "Keskin Pala +2"},
+    {203, "Keskin Pala +3"}, {204, "Keskin Pala +4"}, {205, "Keskin Pala +5"},
+    {206, "Keskin Pala +6"}, {207, "Keskin Pala +7"}, {208, "Keskin Pala +8"}, {209, "Keskin Pala +9"},
+
+    {210, "Öldürücü Pala"}, {211, "Öldürücü Pala +1"}, {212, "Öldürücü Pala +2"},
+    {213, "Öldürücü Pala +3"}, {214, "Öldürücü Pala +4"}, {215, "Öldürücü Pala +5"},
+    {216, "Öldürücü Pala +6"}, {217, "Öldürücü Pala +7"}, {218, "Öldürücü Pala +8"}, {219, "Öldürücü Pala +9"},
+
+    {220, "Ay Kılıcı"}, {221, "Ay Kılıcı +1"}, {222, "Ay Kılıcı +2"},
+    {223, "Ay Kılıcı +3"}, {224, "Ay Kılıcı +4"}, {225, "Ay Kılıcı +5"},
+    {226, "Ay Kılıcı +6"}, {227, "Ay Kılıcı +7"}, {228, "Ay Kılıcı +8"}, {229, "Ay Kılıcı +9"},
+
+    {230, "İlahi Kılıç"}, {231, "İlahi Kılıç +1"}, {232, "İlahi Kılıç +2"},
+    {233, "İlahi Kılıç +3"}, {234, "İlahi Kılıç +4"}, {235, "İlahi Kılıç +5"},
+    {236, "İlahi Kılıç +6"}, {237, "İlahi Kılıç +7"}, {238, "İlahi Kılıç +8"}, {239, "İlahi Kılıç +9"},
+
+    {240, "Şeytan Çıkarma Kılıcı"}, {241, "Şeytan Çıkarma Kılıcı +1"}, {242, "Şeytan Çıkarma Kılıcı +2"},
+    {243, "Şeytan Çıkarma Kılıcı +3"}, {244, "Şeytan Çıkarma Kılıcı +4"}, {245, "Şeytan Çıkarma Kılıcı +5"},
+    {246, "Şeytan Çıkarma Kılıcı +6"}, {247, "Şeytan Çıkarma Kılıcı +7"}, {248, "Şeytan Çıkarma Kılıcı +8"}, {249, "Şeytan Çıkarma Kılıcı +9"},
+
+    {250, "Şeytani Pala"}, {251, "Şeytani Pala +1"}, {252, "Şeytani Pala +2"},
+    {253, "Şeytani Pala +3"}, {254, "Şeytani Pala +4"}, {255, "Şeytani Pala +5"},
+    {256, "Şeytani Pala +6"}, {257, "Şeytani Pala +7"}, {258, "Şeytani Pala +8"}, {259, "Şeytani Pala +9"},
+
+    {260, "Baron Kılıcı"}, {261, "Baron Kılıcı +1"}, {262, "Baron Kılıcı +2"},
+    {263, "Baron Kılıcı +3"}, {264, "Baron Kılıcı +4"}, {265, "Baron Kılıcı +5"},
+    {266, "Baron Kılıcı +6"}, {267, "Baron Kılıcı +7"}, {268, "Baron Kılıcı +8"}, {269, "Baron Kılıcı +9"},
+
+    {270, "Triton Kılıcı"}, {271, "Triton Kılıcı +1"}, {272, "Triton Kılıcı +2"},
+    {273, "Triton Kılıcı +3"}, {274, "Triton Kılıcı +4"}, {275, "Triton Kılıcı +5"},
+    {276, "Triton Kılıcı +6"}, {277, "Triton Kılıcı +7"}, {278, "Triton Kılıcı +8"}, {279, "Triton Kılıcı +9"},
+
+    {280, "Kutsal Kılıç"}, {281, "Kutsal Kılıç +1"}, {282, "Kutsal Kılıç +2"},
+    {283, "Kutsal Kılıç +3"}, {284, "Kutsal Kılıç +4"}, {285, "Kutsal Kılıç +5"},
+    {286, "Kutsal Kılıç +6"}, {287, "Kutsal Kılıç +7"}, {288, "Kutsal Kılıç +8"}, {289, "Kutsal Kılıç +9"},
+
+    {290, "Dolunay Kılıcı"}, {291, "Dolunay Kılıcı +1"}, {292, "Dolunay Kılıcı +2"},
+    {293, "Dolunay Kılıcı +3"}, {294, "Dolunay Kılıcı +4"}, {295, "Dolunay Kılıcı +5"},
+    {296, "Dolunay Kılıcı +6"}, {297, "Dolunay Kılıcı +7"}, {298, "Dolunay Kılıcı +8"}, {299, "Dolunay Kılıcı +9"},
+
+    {460, "Runik Kılıç"}, {461, "Runik Kılıç +1"}, { 462, "Runik Kılıç +2"},
+    {463, "Runik Kılıç +3"}, {464, "Runik Kılıç +4"}, {465, "Runik Kılıç +5"},
+    {466, "Runik Kılıç +6"}, {467, "Runik Kılıç +7"}, {468, "Runik Kılıç +8"}, {469, "Runik Kılıç +9"},
+
+    {470, "Ejderha Dişi Kılıcı"}, { 471, "Ejderha Dişi Kılıcı +1"}, { 472, "Ejderha Dişi Kılıcı +2"},
+    {473, "Ejderha Dişi Kılıcı +3"}, {474, "Ejderha Dişi Kılıcı +4"}, {475, "Ejderha Dişi Kılıcı +5"},
+    {476, "Ejderha Dişi Kılıcı +6"}, {477, "Ejderha Dişi Kılıcı +7"}, {478, "Ejderha Dişi Kılıcı +8"}, {479, "Ejderha Dişi Kılıcı +9"},
+
+    {1000, "Hançer"}, {1001, "Hançer +1"}, {1002, "Hançer +2"}, {1003, "Hançer +3"}, {1004, "Hançer +4"},
+    {1005, "Hançer +5"}, {1006, "Hançer +6"}, {1007, "Hançer +7"}, {1008, "Hançer +8"}, {1009, "Hançer +9"},
+
+    {1010, "Kobra Hançeri"}, {1011, "Kobra Hançeri +1"}, {1012, "Kobra Hançeri +2"}, {1013, "Kobra Hançeri +3"},
+    {1014, "Kobra Hançeri +4"}, {1015, "Kobra Hançeri +5"}, {1016, "Kobra Hançeri +6"}, {1017, "Kobra Hançeri +7"},
+    {1018, "Kobra Hançeri +8"}, {1019, "Kobra Hançeri +9"},
+
+    {1020, "Makas Hançer"}, {1021, "Makas Hançer +1"}, {1022, "Makas Hançer +2"}, {1023, "Makas Hançer +3"},
+    {1024, "Makas Hançer +4"}, {1025, "Makas Hançer +5"}, {1026, "Makas Hançer +6"}, {1027, "Makas Hançer +7"},
+    {1028, "Makas Hançer +8"}, {1029, "Makas Hançer +9"},
+
+    {1030, "Şanslı Bıçak"}, {1031, "Şanslı Bıçak +1"}, {1032, "Şanslı Bıçak +2"}, {1033, "Şanslı Bıçak +3"},
+    {1034, "Şanslı Bıçak +4"}, {1035, "Şanslı Bıçak +5"}, {1036, "Şanslı Bıçak +6"}, {1037, "Şanslı Bıçak +7"},
+    {1038, "Şanslı Bıçak +8"}, {1039, "Şanslı Bıçak +9"},
+
+    {1040, "Kedi Isırığı Bıçak"}, {1041, "Kedi Isırığı Bıçak +1"}, {1042, "Kedi Isırığı Bıçak +2"},
+    {1043, "Kedi Isırığı Bıçak +3"}, {1044, "Kedi Isırığı Bıçak +4"}, {1045, "Kedi Isırığı Bıçak +5"},
+    {1046, "Kedi Isırığı Bıçak +6"}, {1047, "Kedi Isırığı Bıçak +7"}, {1048, "Kedi Isırığı Bıçak +8"},
+    {1049, "Kedi Isırığı Bıçak +9"},
+
+    {1050, "Şeytan Surat Hançer"}, {1051, "Şeytan Surat Hançer +1"}, {1052, "Şeytan Surat Hançer +2"},
+    {1053, "Şeytan Surat Hançer +3"}, {1054, "Şeytan Surat Hançer +4"}, {1055, "Şeytan Surat Hançer +5"},
+    {1056, "Şeytan Surat Hançer +6"}, {1057, "Şeytan Surat Hançer +7"}, {1058, "Şeytan Surat Hançer +8"},
+    {1059, "Şeytan Surat Hançer +9"},
+
+    {1060, "Şeytan Yumruğu Hançeri"}, {1061, "Şeytan Yumruğu Hançeri +1"}, {1062, "Şeytan Yumruğu Hançeri +2"},
+    {1063, "Şeytan Yumruğu Hançeri +3"}, {1064, "Şeytan Yumruğu Hançeri +4"}, {1065, "Şeytan Yumruğu Hançeri +5"},
+    {1066, "Şeytan Yumruğu Hançeri +6"}, {1067, "Şeytan Yumruğu Hançeri +7"}, {1068, "Şeytan Yumruğu Hançeri +8"},
+    {1069, "Şeytan Yumruğu Hançeri +9"},
+
+    {1070, "Kanlı Hançer"}, {1071, "Kanlı Hançer +1"}, {1072, "Kanlı Hançer +2"}, {1073, "Kanlı Hançer +3"},
+    {1074, "Kanlı Hançer +4"}, {1075, "Kanlı Hançer +5"}, {1076, "Kanlı Hançer +6"}, {1077, "Kanlı Hançer +7"},
+    {1078, "Kanlı Hançer +8"}, {1079, "Kanlı Hançer +9"},
+
+    {1080, "Kaburga Bıçak"}, {1081, "Kaburga Bıçak +1"}, {1082, "Kaburga Bıçak +2"}, {1083, "Kaburga Bıçak +3"},
+    {1084, "Kaburga Bıçak +4"}, {1085, "Kaburga Bıçak +5"}, {1086, "Kaburga Bıçak +6"}, {1087, "Kaburga Bıçak +7"},
+    {1088, "Kaburga Bıçak +8"}, {1089, "Kaburga Bıçak +9"},
+
+    {1090, "Çakram"}, {1091, "Çakram +1"}, {1092, "Çakram +2"}, {1093, "Çakram +3"}, {1094, "Çakram +4"},
+    {1095, "Çakram +5"}, {1096, "Çakram +6"}, {1097, "Çakram +7"}, {1098, "Çakram +8"}, {1099, "Çakram +9"},
+
+    {1100, "Ejderha Bicagi"}, {1101, "Ejderha Bicagi +1"}, {1102, "Ejderha Bicagi +2"}, {1103, "Ejderha Bicagi +3"},
+    {1104, "Ejderha Bicagi +4"}, {1105, "Ejderha Bicagi +5"}, {1106, "Ejderha Bicagi +6"}, {1107, "Ejderha Bicagi +7"},
+    {1108, "Ejderha Bicagi +8"}, {1109, "Ejderha Bicagi +9"},
+
+    {1110, "Şimşek Bicagi"}, {1111, "Şimşek Bicagi +1"}, {1112, "Şimşek Bicagi +2"}, {1113, "Şimşek Bicagi +3"},
+    {1114, "Şimşek Bicagi +4"}, {1115, "Şimşek Bicagi +5"}, {1116, "Şimşek Bicagi +6"}, {1117, "Şimşek Bicagi +7"},
+    {1118, "Şimşek Bicagi +8"}, {1119, "Şimşek Bicagi +9"},
+
+    {1120, "Siam Bicagi"}, {1121, "Siam Bicagi +1"}, {1122, "Siam Bicagi +2"}, {1123, "Siam Bicagi +3"},
+    {1124, "Siam Bicagi +4"}, {1125, "Siam Bicagi +5"}, {1126, "Siam Bicagi +6"}, {1127, "Siam Bicagi +7"},
+    {1128, "Siam Bicagi +8"}, {1129, "Siam Bicagi +9"},
+
+    {1130, "Şeytan Kanadi Çakram"}, {1131, "Şeytan Kanadi Çakram +1"}, {1132, "Şeytan Kanadi Çakram +2"},
+    {1133, "Şeytan Kanadi Çakram +3"}, {1134, "Şeytan Kanadi Çakram +4"}, {1135, "Şeytan Kanadi Çakram +5"},
+    {1136, "Şeytan Kanadi Çakram +6"}, {1137, "Şeytan Kanadi Çakram +7"}, {1138, "Şeytan Kanadi Çakram +8"},
+    {1139, "Şeytan Kanadi Çakram +9"},
+
+    {1140, "Testere Diş Bıçak"}, {1141, "Testere Diş Bıçak +1"}, {1142, "Testere Diş Bıçak +2"}, {1143, "Testere Diş Bıçak +3"},
+    {1144, "Testere Diş Bıçak +4"}, {1145, "Testere Diş Bıçak +5"}, {1146, "Testere Diş Bıçak +6"}, {1147, "Testere Diş Bıçak +7"},
+    {1148, "Testere Diş Bıçak +8"}, {1149, "Testere Diş Bıçak +9"},
+
+    {1150, "Gün Işığı Bıçak"}, {1151, "Gün Işığı Bıçak +1"}, {1152, "Gün Işığı Bıçak +2"}, {1153, "Gün Işığı Bıçak +3"},
+    {1154, "Gün Işığı Bıçak +4"}, {1155, "Gün Işığı Bıçak +5"}, {1156, "Gün Işığı Bıçak +6"}, {1157, "Gün Işığı Bıçak +7"},
+    {1158, "Gün Işığı Bıçak +8"}, {1159, "Gün Işığı Bıçak +9"},
+
+    {1160, "Rivulet Bıçak"}, {1161, "Rivulet Bıçak +1"}, {1162, "Rivulet Bıçak +2"}, {1163, "Rivulet Bıçak +3"},
+    {1164, "Rivulet Bıçak +4"}, {1165, "Rivulet Bıçak +5"}, {1166, "Rivulet Bıçak +6"}, {1167, "Rivulet Bıçak +7"},
+    {1168, "Rivulet Bıçak +8"}, {1169, "Rivulet Bıçak +9"},
+
+    {1170, "Siyah Yaprak Hançeri"}, {1171, "Siyah Yaprak Hançeri +1"}, {1172, "Siyah Yaprak Hançeri +2"}, {1173, "Siyah Yaprak Hançeri +3"},
+    {1174, "Siyah Yaprak Hançeri +4"}, {1175, "Siyah Yaprak Hançeri +5"}, {1176, "Siyah Yaprak Hançeri +6"}, {1177, "Siyah Yaprak Hançeri +7"},
+    {1178, "Siyah Yaprak Hançeri +8"}, {1179, "Siyah Yaprak Hançeri +9"},
+
+    { 1340, "Beş Element Kılıcı" }, { 1341, "Beş Element Kılıcı +1" }, { 1342, "Beş Element Kılıcı +2" }, { 1343, "Beş Element Kılıcı +3" },
+    { 1344, "Beş Element Kılıcı +4" }, { 1345, "Beş Element Kılıcı +5" }, { 1346, "Beş Element Kılıcı +6" }, { 1347, "Beş Element Kılıcı +7" },
+    { 1348, "Beş Element Kılıcı +8" }, { 1349, "Beş Element Kılıcı +9" },
+
+
+    {3000, "Geniş Mizrak"}, {3001, "Geniş Mizrak +1"}, {3002, "Geniş Mizrak +2"},
+    {3003, "Geniş Mizrak +3"}, {3004, "Geniş Mizrak +4"}, {3005, "Geniş Mizrak +5"},
+    {3006, "Geniş Mizrak +6"}, {3007, "Geniş Mizrak +7"}, {3008, "Geniş Mizrak +8"}, {3009, "Geniş Mizrak +9"},
+
+    {3010, "Mızrak"}, {3011, "Mızrak +1"}, {3012, "Mızrak +2"},
+    {3013, "Mızrak +3"}, {3014, "Mızrak +4"}, {3015, "Mızrak +5"},
+    {3016, "Mızrak +6"}, {3017, "Mızrak +7"}, {3018, "Mızrak +8"}, {3019, "Mızrak +9"},
+
+    {3020, "Giyotin Pala"}, {3021, "Giyotin Pala +1"}, {3022, "Giyotin Pala +2"},
+    {3023, "Giyotin Pala +3"}, {3024, "Giyotin Pala +4"}, {3025, "Giyotin Pala +5"},
+    {3026, "Giyotin Pala +6"}, {3027, "Giyotin Pala +7"}, {3028, "Giyotin Pala +8"}, {3029, "Giyotin Pala +9"},
+
+    {3030, "Örümcek Mızrağı"}, {3031, "Örümcek Mızrağı +1"}, {3032, "Örümcek Mızrağı +2"},
+    {3033, "Örümcek Mızrağı +3"}, {3034, "Örümcek Mızrağı +4"}, {3035, "Örümcek Mızrağı +5"},
+    {3036, "Örümcek Mızrağı +6"}, {3037, "Örümcek Mızrağı +7"}, {3038, "Örümcek Mızrağı +8"}, {3039, "Örümcek Mızrağı +9"},
+
+    {3040, "Kargı"}, {3041, "Kargı +1"}, {3042, "Kargı +2"},
+    {3043, "Kargı +3"}, {3044, "Kargı +4"}, {3045, "Kargı +5"},
+    {3046, "Kargı +6"}, {3047, "Kargı +7"}, {3048, "Kargı +8"}, {3049, "Kargı +9"},
+
+    {3050, "Savaş Tırpanı"}, {3051, "Savaş Tırpanı +1"}, {3052, "Savaş Tırpanı +2"},
+    {3053, "Savaş Tırpanı +3"}, {3054, "Savaş Tırpanı +4"}, {3055, "Savaş Tırpanı +5"},
+    {3056, "Savaş Tırpanı +6"}, {3057, "Savaş Tırpanı +7"}, {3058, "Savaş Tırpanı +8"}, {3059, "Savaş Tırpanı +9"},
+
+    {3060, "Askeri Tırmık"}, {3061, "Askeri Tırmık +1"}, {3062, "Askeri Tırmık +2"},
+    {3063, "Askeri Tırmık +3"}, {3064, "Askeri Tırmık +4"}, {3065, "Askeri Tırmık +5"},
+    {3066, "Askeri Tırmık +6"}, {3067, "Askeri Tırmık +7"}, {3068, "Askeri Tırmık +8"}, {3069, "Askeri Tırmık +9"},
+
+    {3070, "Baltalı Mızrak"}, {3071, "Baltalı Mızrak +1"}, {3072, "Baltalı Mızrak +2"},
+    {3073, "Baltalı Mızrak +3"}, {3074, "Baltalı Mızrak +4"}, {3075, "Baltalı Mızrak +5"},
+    {3076, "Baltalı Mızrak +6"}, {3077, "Baltalı Mızrak +7"}, {3078, "Baltalı Mızrak +8"}, {3079, "Baltalı Mızrak +9"},
+
+    {3080, "Büyük Balta"}, {3081, "Büyük Balta +1"}, {3082, "Büyük Balta +2"},
+    {3083, "Büyük Balta +3"}, {3084, "Büyük Balta +4"}, {3085, "Büyük Balta +5"},
+    {3086, "Büyük Balta +6"}, {3087, "Büyük Balta +7"}, {3088, "Büyük Balta +8"}, {3089, "Büyük Balta +9"},
+
+    {3090, "Buzlu Uç"}, {3091, "Buzlu Uç +1"}, {3092, "Buzlu Uç +2"},
+    {3093, "Buzlu Uç +3"}, {3094, "Buzlu Uç +4"}, {3095, "Buzlu Uç +5"},
+    {3096, "Buzlu Uç +6"}, {3097, "Buzlu Uç +7"}, {3098, "Buzlu Uç +8"}, {3099, "Buzlu Uç +9"},
+
+    {3100, "Oniki Ruh Kılıcı"}, {3101, "Oniki Ruh Kılıcı +1"}, {3102, "Oniki Ruh Kılıcı +2"},
+    {3103, "Oniki Ruh Kılıcı +3"}, {3104, "Oniki Ruh Kılıcı +4"}, {3105, "Oniki Ruh Kılıcı +5"},
+    {3106, "Oniki Ruh Kılıcı +6"}, {3107, "Oniki Ruh Kılıcı +7"}, {3108, "Oniki Ruh Kılıcı +8"}, {3109, "Oniki Ruh Kılıcı +9"},
+
+    {3110, "Kurtuluş Palası"}, {3111, "Kurtuluş Palası +1"}, {3112, "Kurtuluş Palası +2"},
+    {3113, "Kurtuluş Palası +3"}, {3114, "Kurtuluş Palası +4"}, {3115, "Kurtuluş Palası +5"},
+    {3116, "Kurtuluş Palası +6"}, {3117, "Kurtuluş Palası +7"}, {3118, "Kurtuluş Palası +8"}, {3119, "Kurtuluş Palası +9"},
+
+    {3120, "Aslan Katleden"}, {3121, "Aslan Katleden +1"}, {3122, "Aslan Katleden +2"},
+    {3123, "Aslan Katleden +3"}, {3124, "Aslan Katleden +4"}, {3125, "Aslan Katleden +5"},
+    {3126, "Aslan Katleden +6"}, {3127, "Aslan Katleden +7"}, {3128, "Aslan Katleden +8"}, {3129, "Aslan Katleden +9"},
+
+    {3130, "Partizan"}, {3131, "Partizan +1"}, {3132, "Partizan +2"},
+    {3133, "Partizan +3"}, {3134, "Partizan +4"}, {3135, "Partizan +5"},
+    {3136, "Partizan +6"}, {3137, "Partizan +7"}, {3138, "Partizan +8"}, {3139, "Partizan +9"},
+
+    {3140, "Elektromanyetik Pala"}, {3141, "Elektromanyetik Pala +1"}, {3142, "Elektromanyetik Pala +2"},
+    {3143, "Elektromanyetik Pala +3"}, {3144, "Elektromanyetik Pala +4"}, {3145, "Elektromanyetik Pala +5"},
+    {3146, "Elektromanyetik Pala +6"}, {3147, "Elektromanyetik Pala +7"}, {3148, "Elektromanyetik Pala +8"}, {3149, "Elektromanyetik Pala +9"},
+
+    {3150, "Yarı-İnsan Kılıcı"}, {3151, "Yarı-İnsan Kılıcı +1"}, {3152, "Yarı-İnsan Kılıcı +2"},
+    {3153, "Yarı-İnsan Kılıcı +3"}, {3154, "Yarı-İnsan Kılıcı +4"}, {3155, "Yarı-İnsan Kılıcı +5"},
+    {3156, "Yarı-İnsan Kılıcı +6"}, {3157, "Yarı-İnsan Kılıcı +7"}, {3158, "Yarı-İnsan Kılıcı +8"}, {3159, "Yarı-İnsan Kılıcı +9"},
+
+    {3160, "Kin Kılıcı"}, {3161, "Kin Kılıcı +1"}, {3162, "Kin Kılıcı +2"},
+    {3163, "Kin Kılıcı +3"}, {3164, "Kin Kılıcı +4"}, {3165, "Kin Kılıcı +5"},
+    {3166, "Kin Kılıcı +6"}, {3167, "Kin Kılıcı +7"}, {3168, "Kin Kılıcı +8"}, {3169, "Kin Kılıcı +9"},
+
+    {3170, "Sarı Ejderha Katleden"}, {3171, "Sarı Ejderha Katleden +1"}, {3172, "Sarı Ejderha Katleden +2"},
+    {3173, "Sarı Ejderha Katleden +3"}, {3174, "Sarı Ejderha Katleden +4"}, {3175, "Sarı Ejderha Katleden +5"},
+    {3176, "Sarı Ejderha Katleden +6"}, {3177, "Sarı Ejderha Katleden +7"}, {3178, "Sarı Ejderha Katleden +8"}, {3179, "Sarı Ejderha Katleden +9"},
+
+    {3180, "Mavi Ejderha Katleden"}, {3181, "Mavi Ejderha Katleden +1"}, {3182, "Mavi Ejderha Katleden +2"},
+    {3183, "Mavi Ejderha Katleden +3"}, {3184, "Mavi Ejderha Katleden +4"}, {3185, "Mavi Ejderha Katleden +5"},
+    {3186, "Mavi Ejderha Katleden +6"}, {3187, "Mavi Ejderha Katleden +7"}, {3188, "Mavi Ejderha Katleden +8"}, {3189, "Mavi Ejderha Katleden +9"},
+
+    {3190, "Güneş Kılıcı"}, {3191, "Güneş Kılıcı +1"}, {3192, "Güneş Kılıcı +2"},
+    {3193, "Güneş Kılıcı +3"}, {3194, "Güneş Kılıcı +4"}, {3195, "Güneş Kılıcı +5"},
+    {3196, "Güneş Kılıcı +6"}, {3197, "Güneş Kılıcı +7"}, {3198, "Güneş Kılıcı +8"}, {3199, "Güneş Kılıcı +9"},
+
+    {3200, "Ejderha Tanrısı Palası"}, {3201, "Ejderha Tanrısı Palası +1"}, {3202, "Ejderha Tanrısı Palası +2"},
+    {3203, "Ejderha Tanrısı Palası +3"}, {3204, "Ejderha Tanrısı Palası +4"}, {3205, "Ejderha Tanrısı Palası +5"},
+    {3206, "Ejderha Tanrısı Palası +6"}, {3207, "Ejderha Tanrısı Palası +7"}, {3208, "Ejderha Tanrısı Palası +8"}, {3209, "Ejderha Tanrısı Palası +9"},
+
+    {3210, "Kırmızı Demir Pala"}, {3211, "Kırmızı Demir Pala +1"}, {3212, "Kırmızı Demir Pala +2"},
+    {3213, "Kırmızı Demir Pala +3"}, {3214, "Kırmızı Demir Pala +4"}, {3215, "Kırmızı Demir Pala +5"},
+    {3216, "Kırmızı Demir Pala +6"}, {3217, "Kırmızı Demir Pala +7"}, {3218, "Kırmızı Demir Pala +8"}, {3219, "Kırmızı Demir Pala +9"},
+
+    {4040, "Ruhsuz Bıçak"}, {4041, "Ruhsuz Bıçak +1"}, {4042, "Ruhsuz Bıçak +2"}, {4043, "Ruhsuz Bıçak +3"},
+    {4044, "Ruhsuz Bıçak +4"}, {4045, "Ruhsuz Bıçak +5"}, {4046, "Ruhsuz Bıçak +6"}, {4047, "Ruhsuz Bıçak +7"},
+    {4048, "Ruhsuz Bıçak +8"}, {4049, "Ruhsuz Bıçak +9"},
+
+    {4030, "İkiz Ay Hançeri"}, {4031, "İkiz Ay Hançeri +1"}, {4032, "İkiz Ay Hançeri +2"}, {4033, "İkiz Ay Hançeri +3"},
+    {4034, "İkiz Ay Hançeri +4"}, {4035, "İkiz Ay Hançeri +5"}, {4036, "İkiz Ay Hançeri +6"}, {4037, "İkiz Ay Hançeri +7"},
+    {4038, "İkiz Ay Hançeri +8"}, {4039, "İkiz Ay Hançeri +9"},
+
+    {5000, "Bakır Çan"}, {5001, "Bakır Çan +1"}, {5002, "Bakır Çan +2"}, {5003, "Bakır Çan +3"},
+    {5004, "Bakır Çan +4"}, {5005, "Bakır Çan +5"}, {5006, "Bakır Çan +6"}, {5007, "Bakır Çan +7"},
+    {5008, "Bakır Çan +8"}, {5009, "Bakır Çan +9"},
+
+    {5010, "Gümüş Çan"}, {5011, "Gümüş Çan +1"}, {5012, "Gümüş Çan +2"}, {5013, "Gümüş Çan +3"},
+    {5014, "Gümüş Çan +4"}, {5015, "Gümüş Çan +5"}, {5016, "Gümüş Çan +6"}, {5017, "Gümüş Çan +7"},
+    {5018, "Gümüş Çan +8"}, {5019, "Gümüş Çan +9"},
+
+    {5020, "Altın Çan"}, {5021, "Altın Çan +1"}, {5022, "Altın Çan +2"}, {5023, "Altın Çan +3"},
+    {5024, "Altın Çan +4"}, {5025, "Altın Çan +5"}, {5026, "Altın Çan +6"}, {5027, "Altın Çan +7"},
+    {5028, "Altın Çan +8"}, {5029, "Altın Çan +9"},
+
+    {5030, "Yeşim Taşı Çan"}, {5031, "Yeşim Taşı Çan +1"}, {5032, "Yeşim Taşı Çan +2"}, {5033, "Yeşim Taşı Çan +3"},
+    {5034, "Yeşim Taşı Çan +4"}, {5035, "Yeşim Taşı Çan +5"}, {5036, "Yeşim Taşı Çan +6"}, {5037, "Yeşim Taşı Çan +7"},
+    {5038, "Yeşim Taşı Çan +8"}, {5039, "Yeşim Taşı Çan +9"},
+
+    {5040, "Kaynak Çan"}, {5041, "Kaynak Çan +1"}, {5042, "Kaynak Çan +2"}, {5043, "Kaynak Çan +3"},
+    {5044, "Kaynak Çan +4"}, {5045, "Kaynak Çan +5"}, {5046, "Kaynak Çan +6"}, {5047, "Kaynak Çan +7"},
+    {5048, "Kaynak Çan +8"}, {5049, "Kaynak Çan +9"},
+
+    {5050, "Kayısı Ağacı Çan"}, {5051, "Kayısı Ağacı Çan +1"}, {5052, "Kayısı Ağacı Çan +2"}, {5053, "Kayısı Ağacı Çan +3"},
+    {5054, "Kayısı Ağacı Çan +4"}, {5055, "Kayısı Ağacı Çan +5"}, {5056, "Kayısı Ağacı Çan +6"}, {5057, "Kayısı Ağacı Çan +7"},
+    {5058, "Kayısı Ağacı Çan +8"}, {5059, "Kayısı Ağacı Çan +9"},
+
+    {5060, "Büyülü Çan"}, {5061, "Büyülü Çan +1"}, {5062, "Büyülü Çan +2"}, {5063, "Büyülü Çan +3"},
+    {5064, "Büyülü Çan +4"}, {5065, "Büyülü Çan +5"}, {5066, "Büyülü Çan +6"}, {5067, "Büyülü Çan +7"},
+    {5068, "Büyülü Çan +8"}, {5069, "Büyülü Çan +9"},
+
+    {5070, "Altın Böcek Çanı"}, {5071, "Altın Böcek Çanı +1"}, {5072, "Altın Böcek Çanı +2"}, {5073, "Altın Böcek Çanı +3"},
+    {5074, "Altın Böcek Çanı +4"}, {5075, "Altın Böcek Çanı +5"}, {5076, "Altın Böcek Çanı +6"}, {5077, "Altın Böcek Çanı +7"},
+    {5078, "Altın Böcek Çanı +8"}, {5079, "Altın Böcek Çanı +9"},
+
+    {5080, "Çelik Böcek Çanı"}, {5081, "Çelik Böcek Çanı +1"}, {5082, "Çelik Böcek Çanı +2"}, {5083, "Çelik Böcek Çanı +3"},
+    {5084, "Çelik Böcek Çanı +4"}, {5085, "Çelik Böcek Çanı +5"}, {5086, "Çelik Böcek Çanı +6"}, {5087, "Çelik Böcek Çanı +7"},
+    {5088, "Çelik Böcek Çanı +8"}, {5089, "Çelik Böcek Çanı +9"},
+
+    {5090, "Yıldırım Kuşu Çanı"}, {5091, "Yıldırım Kuşu Çanı +1"}, {5092, "Yıldırım Kuşu Çanı +2"}, {5093, "Yıldırım Kuşu Çanı +3"},
+    {5094, "Yıldırım Kuşu Çanı +4"}, {5095, "Yıldırım Kuşu Çanı +5"}, {5096, "Yıldırım Kuşu Çanı +6"}, {5097, "Yıldırım Kuşu Çanı +7"},
+    {5098, "Yıldırım Kuşu Çanı +8"}, {5099, "Yıldırım Kuşu Çanı +9"},
+
+
+    {5100, "Cennet ve Dünya Çanı"}, {5101, "Cennet ve Dünya Çanı +1"}, {5102, "Cennet ve Dünya Çanı +2"}, {5103, "Cennet ve Dünya Çanı +3"},
+    {5104, "Cennet ve Dünya Çanı +4"}, {5105, "Cennet ve Dünya Çanı +5"}, {5106, "Cennet ve Dünya Çanı +6"}, {5107, "Cennet ve Dünya Çanı +7"},
+    {5108, "Cennet ve Dünya Çanı +8"}, {5109, "Cennet ve Dünya Çanı +9"},
+
+    {5110, "Antik Çan"}, {5111, "Antik Çan +1"}, {5112, "Antik Çan +2"}, {5113, "Antik Çan +3"},
+    {5114, "Antik Çan +4"}, {5115, "Antik Çan +5"}, {5116, "Antik Çan +6"}, {5117, "Antik Çan +7"},
+    {5118, "Antik Çan +8"}, {5119, "Antik Çan +9"},
+
+    {5120, "Orkide Çan"}, {5121, "Orkide Çan +1"}, {5122, "Orkide Çan +2"}, {5123, "Orkide Çan +3"},
+    {5124, "Orkide Çan +4"}, {5125, "Orkide Çan +5"}, {5126, "Orkide Çan +6"}, {5127, "Orkide Çan +7"},
+    {5128, "Orkide Çan +8"}, {5129, "Orkide Çan +9"},
+
+    {5130, "Sert Biçici Çan"}, {5131, "Sert Biçici Çan +1"}, {5132, "Sert Biçici Çan +2"}, {5133, "Sert Biçici Çan +3"},
+    {5134, "Sert Biçici Çan +4"}, {5135, "Sert Biçici Çan +5"}, {5136, "Sert Biçici Çan +6"}, {5137, "Sert Biçici Çan +7"},
+    {5138, "Sert Biçici Çan +8"}, {5139, "Sert Biçici Çan +9"},
+
+    {5140, "Ejderha Çanı"}, {5141, "Ejderha Çanı +1"}, {5142, "Ejderha Çanı +2"}, {5143, "Ejderha Çanı +3"},
+    {5144, "Ejderha Çanı +4"}, {5145, "Ejderha Çanı +5"}, {5146, "Ejderha Çanı +6"}, {5147, "Ejderha Çanı +7"},
+    {5148, "Ejderha Çanı +8"}, {5149, "Ejderha Çanı +9"},
+
+    {5150, "Hibiskus Çan"}, {5151, "Hibiskus Çan +1"}, {5152, "Hibiskus Çan +2"}, {5153, "Hibiskus Çan +3"},
+    {5154, "Hibiskus Çan +4"}, {5155, "Hibiskus Çan +5"}, {5156, "Hibiskus Çan +6"}, {5157, "Hibiskus Çan +7"},
+    {5158, "Hibiskus Çan +8"}, {5159, "Hibiskus Çan +9"},
+
+    {5330, "Ejder Çenesi Çanı"}, { 5331, "Ejder Çenesi Çanı +1"}, { 5332, "Ejder Çenesi Çanı +2"}, { 5333, "Ejder Çenesi Çanı +3"},
+    {5334, "Ejder Çenesi Çanı +4"}, { 5335, "Ejder Çenesi Çanı +5"}, { 5336, "Ejder Çenesi Çanı +6"}, { 5337, "Ejder Çenesi Çanı +7"},
+    {5338, "Ejder Çenesi Çanı +8"}, { 5339, "Ejder Çenesi Çanı +9"},
+
+    {5340, "Ejderha Hayaleti Çanı"}, {5341, "Ejderha Hayaleti Çanı +1"}, {5342, "Ejderha Hayaleti Çanı +2"}, {5343, "Ejderha Hayaleti Çanı +3"},
+    {5344, "Ejderha Hayaleti Çanı +4"}, {5345, "Ejderha Hayaleti Çanı +5"}, {5346, "Ejderha Hayaleti Çanı +6"}, {5347, "Ejderha Hayaleti Çanı +7"},
+    {5348, "Ejderha Hayaleti Çanı +8"}, {5349, "Ejderha Hayaleti Çanı +9"},
+
+    {7000, "Yelpaze"}, {7001, "Yelpaze +1"}, {7002, "Yelpaze +2"}, {7003, "Yelpaze +3"},
+    {7004, "Yelpaze +4"}, {7005, "Yelpaze +5"}, {7006, "Yelpaze +6"}, {7007, "Yelpaze +7"},
+    {7008, "Yelpaze +8"}, {7009, "Yelpaze +9"},
+
+    {7010, "Demir Yelpaze"}, {7011, "Demir Yelpaze +1"}, {7012, "Demir Yelpaze +2"}, {7013, "Demir Yelpaze +3"},
+    {7014, "Demir Yelpaze +4"}, {7015, "Demir Yelpaze +5"}, {7016, "Demir Yelpaze +6"}, {7017, "Demir Yelpaze +7"},
+    {7018, "Demir Yelpaze +8"}, {7019, "Demir Yelpaze +9"},
+
+    {7020, "Siyah Kaplan Yelpazesi"}, {7021, "Siyah Kaplan Yelpazesi +1"}, {7022, "Siyah Kaplan Yelpazesi +2"}, {7023, "Siyah Kaplan Yelpazesi +3"},
+    {7024, "Siyah Kaplan Yelpazesi +4"}, {7025, "Siyah Kaplan Yelpazesi +5"}, {7026, "Siyah Kaplan Yelpazesi +6"}, {7027, "Siyah Kaplan Yelpazesi +7"},
+    {7028, "Siyah Kaplan Yelpazesi +8"}, {7029, "Siyah Kaplan Yelpazesi +9"},
+
+    {7030, "Turna Kanadı Yelpaze"}, {7031, "Turna Kanadı Yelpaze +1"}, {7032, "Turna Kanadı Yelpaze +2"}, {7033, "Turna Kanadı Yelpaze +3"},
+    {7034, "Turna Kanadı Yelpaze +4"}, {7035, "Turna Kanadı Yelpaze +5"}, {7036, "Turna Kanadı Yelpaze +6"}, {7037, "Turna Kanadı Yelpaze +7"},
+    {7038, "Turna Kanadı Yelpaze +8"}, {7039, "Turna Kanadı Yelpaze +9"},
+
+    {7040, "Tavuskuşu Yelpaze"}, {7041, "Tavuskuşu Yelpaze +1"}, {7042, "Tavuskuşu Yelpaze +2"}, {7043, "Tavuskuşu Yelpaze +3"},
+    {7044, "Tavuskuşu Yelpaze +4"}, {7045, "Tavuskuşu Yelpaze +5"}, {7046, "Tavuskuşu Yelpaze +6"}, {7047, "Tavuskuşu Yelpaze +7"},
+    {7048, "Tavuskuşu Yelpaze +8"}, {7049, "Tavuskuşu Yelpaze +9"},
+
+    {7050, "Su Yelpazesi"}, {7051, "Su Yelpazesi +1"}, {7052, "Su Yelpazesi +2"}, {7053, "Su Yelpazesi +3"},
+    {7054, "Su Yelpazesi +4"}, {7055, "Su Yelpazesi +5"}, {7056, "Su Yelpazesi +6"}, {7057, "Su Yelpazesi +7"},
+    {7058, "Su Yelpazesi +8"}, {7059, "Su Yelpazesi +9"},
+
+    {7060, "Taş Yelpaze"}, {7061, "Taş Yelpaze +1"}, {7062, "Taş Yelpaze +2"}, {7063, "Taş Yelpaze +3"},
+    {7064, "Taş Yelpaze +4"}, {7065, "Taş Yelpaze +5"}, {7066, "Taş Yelpaze +6"}, {7067, "Taş Yelpaze +7"},
+    {7068, "Taş Yelpaze +8"}, {7069, "Taş Yelpaze +9"},
+
+    {7070, "Okyanus Yelpaze"}, {7071, "Okyanus Yelpaze +1"}, {7072, "Okyanus Yelpaze +2"}, {7073, "Okyanus Yelpaze +3"},
+    {7074, "Okyanus Yelpaze +4"}, {7075, "Okyanus Yelpaze +5"}, {7076, "Okyanus Yelpaze +6"}, {7077, "Okyanus Yelpaze +7"},
+    {7078, "Okyanus Yelpaze +8"}, {7079, "Okyanus Yelpaze +9"},
+
+    {7080, "Azap Yelpazesi"}, {7081, "Azap Yelpazesi +1"}, {7082, "Azap Yelpazesi +2"}, {7083, "Azap Yelpazesi +3"},
+    {7084, "Azap Yelpazesi +4"}, {7085, "Azap Yelpazesi +5"}, {7086, "Azap Yelpazesi +6"}, {7087, "Azap Yelpazesi +7"},
+    {7088, "Azap Yelpazesi +8"}, {7089, "Azap Yelpazesi +9"},
+
+    {7090, "Anka Kuşu Yelpaze"}, {7091, "Anka Kuşu Yelpaze +1"}, {7092, "Anka Kuşu Yelpaze +2"}, {7093, "Anka Kuşu Yelpaze +3"},
+    {7094, "Anka Kuşu Yelpaze +4"}, {7095, "Anka Kuşu Yelpaze +5"}, {7096, "Anka Kuşu Yelpaze +6"}, {7097, "Anka Kuşu Yelpaze +7"},
+    {7098, "Anka Kuşu Yelpaze +8"}, {7099, "Anka Kuşu Yelpaze +9"},
+
+    {7100, "Üçlü Yelpaze"}, {7101, "Üçlü Yelpaze +1"}, {7102, "Üçlü Yelpaze +2"}, {7103, "Üçlü Yelpaze +3"},
+    {7104, "Üçlü Yelpaze +4"}, {7105, "Üçlü Yelpaze +5"}, {7106, "Üçlü Yelpaze +6"}, {7107, "Üçlü Yelpaze +7"},
+    {7108, "Üçlü Yelpaze +8"}, {7109, "Üçlü Yelpaze +9"},
+
+    {7110, "Kaş Yelpaze"}, {7111, "Kaş Yelpaze +1"}, {7112, "Kaş Yelpaze +2"}, {7113, "Kaş Yelpaze +3"},
+    {7114, "Kaş Yelpaze +4"}, {7115, "Kaş Yelpaze +5"}, {7116, "Kaş Yelpaze +6"}, {7117, "Kaş Yelpaze +7"},
+    {7118, "Kaş Yelpaze +8"}, {7119, "Kaş Yelpaze +9"},
+
+    {7120, "Güneş Yelpazesi"}, {7121, "Güneş Yelpazesi +1"}, {7122, "Güneş Yelpazesi +2"}, {7123, "Güneş Yelpazesi +3"},
+    {7124, "Güneş Yelpazesi +4"}, {7125, "Güneş Yelpazesi +5"}, {7126, "Güneş Yelpazesi +6"}, {7127, "Güneş Yelpazesi +7"},
+    {7128, "Güneş Yelpazesi +8"}, {7129, "Güneş Yelpazesi +9"},
+
+    {7130, "Cennet Kuşu Yelpaze"}, {7131, "Cennet Kuşu Yelpaze +1"}, {7132, "Cennet Kuşu Yelpaze +2"}, {7133, "Cennet Kuşu Yelpaze +3"},
+    {7134, "Cennet Kuşu Yelpaze +4"}, {7135, "Cennet Kuşu Yelpaze +5"}, {7136, "Cennet Kuşu Yelpaze +6"}, {7137, "Cennet Kuşu Yelpaze +7"},
+    {7138, "Cennet Kuşu Yelpaze +8"}, {7139, "Cennet Kuşu Yelpaze +9"},
+
+    {7140, "Kurtuluş Yelpazesi"}, {7141, "Kurtuluş Yelpazesi +1"}, {7142, "Kurtuluş Yelpazesi +2"}, {7143, "Kurtuluş Yelpazesi +3"},
+    {7144, "Kurtuluş Yelpazesi +4"}, {7145, "Kurtuluş Yelpazesi +5"}, {7146, "Kurtuluş Yelpazesi +6"}, {7147, "Kurtuluş Yelpazesi +7"},
+    {7148, "Kurtuluş Yelpazesi +8"}, {7149, "Kurtuluş Yelpazesi +9"},
+
+    {7150, "Mutluluk Yelpazesi"}, {7151, "Mutluluk Yelpazesi +1"}, {7152, "Mutluluk Yelpazesi +2"}, {7153, "Mutluluk Yelpazesi +3"},
+    {7154, "Mutluluk Yelpazesi +4"}, {7155, "Mutluluk Yelpazesi +5"}, {7156, "Mutluluk Yelpazesi +6"}, {7157, "Mutluluk Yelpazesi +7"},
+    {7158, "Mutluluk Yelpazesi +8"}, {7159, "Mutluluk Yelpazesi +9"},
+
+    {7160, "Sonbahar Yelpazesi"}, {7161, "Sonbahar Yelpazesi +1"}, {7162, "Sonbahar Yelpazesi +2"}, {7163, "Sonbahar Yelpazesi +3"},
+    {7164, "Sonbahar Yelpazesi +4"}, {7165, "Sonbahar Yelpazesi +5"}, {7166, "Sonbahar Yelpazesi +6"}, {7167, "Sonbahar Yelpazesi +7"},
+    {7168, "Sonbahar Yelpazesi +8"}, {7169, "Sonbahar Yelpazesi +9"},
+
+    {7170, "Sekiz Trigram Yelpaze"}, {7171, "Sekiz Trigram Yelpaze +1"}, {7172, "Sekiz Trigram Yelpaze +2"}, {7173, "Sekiz Trigram Yelpaze +3"},
+    {7174, "Sekiz Trigram Yelpaze +4"}, {7175, "Sekiz Trigram Yelpaze +5"}, {7176, "Sekiz Trigram Yelpaze +6"}, {7177, "Sekiz Trigram Yelpaze +7"},
+    {7178, "Sekiz Trigram Yelpaze +8"}, {7179, "Sekiz Trigram Yelpaze +9"},
+
+    {7180, "Uyuyan Ejder Yelpazesi"}, {7181, "Uyuyan Ejder Yelpazesi +1"}, {7182, "Uyuyan Ejder Yelpazesi +2"}, {7183, "Uyuyan Ejder Yelpazesi +3"},
+    {7184, "Uyuyan Ejder Yelpazesi +4"}, {7185, "Uyuyan Ejder Yelpazesi +5"}, {7186, "Uyuyan Ejder Yelpazesi +6"}, {7187, "Uyuyan Ejder Yelpazesi +7"},
+    {7188, "Uyuyan Ejder Yelpazesi +8"}, {7189, "Uyuyan Ejder Yelpazesi +9"},
+
+    {7190, "İblis'in Yelpazesi"}, {7191, "İblis'in Yelpazesi +1"}, {7192, "İblis'in Yelpazesi +2"}, {7193, "İblis'in Yelpazesi +3"},
+    {7194, "İblis'in Yelpazesi +4"}, {7195, "İblis'in Yelpazesi +5"}, {7196, "İblis'in Yelpazesi +6"}, {7197, "İblis'in Yelpazesi +7"},
+    {7198, "İblis'in Yelpazesi +8"}, {7199, "İblis'in Yelpazesi +9"},
+
+    {7370, "Uyuyan Ejder Yelpazesi"}, {7371, "Uyuyan Ejder Yelpazesi +1"}, {7372, "Uyuyan Ejder Yelpazesi +2"},
+    {7373, "Uyuyan Ejder Yelpazesi +3"}, {7374, "Uyuyan Ejder Yelpazesi +4"}, {7375, "Uyuyan Ejder Yelpazesi +5"},
+    {7376, "Uyuyan Ejder Yelpazesi +6"}, {7377, "Uyuyan Ejder Yelpazesi +7"}, {7378, "Uyuyan Ejder Yelpazesi +8"},
+    { 7379, "Uyuyan Ejder Yelpazesi +9" },
+
+
+    // Şeytan Boynuzu Zırhı
+    { 20000, "Şeytan Boynuzu Zırhı" }, { 20001, "Şeytan Boynuzu Zırhı +1" }, { 20002, "Şeytan Boynuzu Zırhı +2" },
+    { 20003, "Şeytan Boynuzu Zırhı +3" }, { 20004, "Şeytan Boynuzu Zırhı +4" }, { 20005, "Şeytan Boynuzu Zırhı +5" },
+    { 20006, "Şeytan Boynuzu Zırhı +6" }, { 20007, "Şeytan Boynuzu Zırhı +7" }, { 20008, "Şeytan Boynuzu Zırhı +8" },
+    { 20009, "Şeytan Boynuzu Zırhı +9" },
+
+    // Keşiş Plaka Zırh
+    { 11200, "Keşiş Plaka Zırh"}, { 11201, "Keşiş Plaka Zırh +1" }, { 11202, "Keşiş Plaka Zırh +2" },
+    { 11203, "Keşiş Plaka Zırh +3" }, { 11204, "Keşiş Plaka Zırh +4" }, { 11205, "Keşiş Plaka Zırh +5" },
+    { 11206, "Keşiş Plaka Zırh +6" }, { 11207, "Keşiş Plaka Zırh +7" }, { 11208, "Keşiş Plaka Zırh +8" },
+    { 11209, "Keşiş Plaka Zırh +9" },
+
+
+    // Mavi Çelik Zırh
+    { 12010, "Mavi Çelik Zırh" }, { 12011, "Mavi Çelik Zırh +1" }, { 12012, "Mavi Çelik Zırh +2" },
+    { 12013, "Mavi Çelik Zırh +3" }, { 12014, "Mavi Çelik Zırh +4" }, { 12015, "Mavi Çelik Zırh +5" },
+    { 12016, "Mavi Çelik Zırh +6" }, { 12017, "Mavi Çelik Zırh +7" }, { 12018, "Mavi Çelik Zırh +8" },
+    { 12019, "Mavi Çelik Zırh +9" },
+
+    // Demir Plaka Zırh
+    { 11210, "Demir Plaka Zırh" }, { 11211, "Demir Plaka Zırh +1" }, { 11212, "Demir Plaka Zırh +2" },
+    { 11213, "Demir Plaka Zırh +3" }, { 11214, "Demir Plaka Zırh +4" }, { 11215, "Demir Plaka Zırh +5" },
+    { 11216, "Demir Plaka Zırh +6" }, { 11217, "Demir Plaka Zırh +7" }, { 11218, "Demir Plaka Zırh +8" },
+    { 11219, "Demir Plaka Zırh +9" },
+
+    // Kaplan Plaka Zırh
+    { 11220, "Kaplan Plaka Zırh" }, { 11221, "Kaplan Plaka Zırh +1" }, { 11222, "Kaplan Plaka Zırh +2" },
+    { 11223, "Kaplan Plaka Zırh +3" }, { 11224, "Kaplan Plaka Zırh +4" }, { 11225, "Kaplan Plaka Zırh +5" },
+    { 11226, "Kaplan Plaka Zırh +6" }, { 11227, "Kaplan Plaka Zırh +7" }, { 11228, "Kaplan Plaka Zırh +8" },
+    { 11229, "Kaplan Plaka Zırh +9" },
+
+    // Aslan Plaka Zırh
+    { 11230, "Aslan Plaka Zırh" }, { 11231, "Aslan Plaka Zırh +1" }, { 11232, "Aslan Plaka Zırh +2" },
+    { 11233, "Aslan Plaka Zırh +3" }, { 11234, "Aslan Plaka Zırh +4" }, { 11235, "Aslan Plaka Zırh +5" },
+    { 11236, "Aslan Plaka Zırh +6" }, { 11237, "Aslan Plaka Zırh +7" }, { 11238, "Aslan Plaka Zırh +8" },
+    { 11239, "Aslan Plaka Zırh +9" },
+
+    // Ölümcül Plaka Zırh
+    { 11240, "Ölümcül Plaka Zırh" }, { 11241, "Ölümcül Plaka Zırh +1" }, { 11242, "Ölümcül Plaka Zırh +2" },
+    { 11243, "Ölümcül Plaka Zırh +3" }, { 11244, "Ölümcül Plaka Zırh +4" }, { 11245, "Ölümcül Plaka Zırh +5" },
+    { 11246, "Ölümcül Plaka Zırh +6" }, { 11247, "Ölümcül Plaka Zırh +7" }, { 11248, "Ölümcül Plaka Zırh +8" },
+    { 11249, "Ölümcül Plaka Zırh +9" },
+
+    // Ejderha Plaka Zırh
+    { 11250, "Ejderha Plaka Zırh" }, { 11251, "Ejderha Plaka Zırh +1" }, { 11252, "Ejderha Plaka Zırh +2" },
+    { 11253, "Ejderha Plaka Zırh +3" }, { 11254, "Ejderha Plaka Zırh +4" }, { 11255, "Ejderha Plaka Zırh +5" },
+    { 11256, "Ejderha Plaka Zırh +6" }, { 11257, "Ejderha Plaka Zırh +7" }, { 11258, "Ejderha Plaka Zırh +8" },
+    { 11259, "Ejderha Plaka Zırh +9" },
+
+    // Mavi Taş Zırh
+    { 11260, "Mavi Taş Zırh" }, { 11261, "Mavi Taş Zırh +1" }, { 11262, "Mavi Taş Zırh +2" },
+    { 11263, "Mavi Taş Zırh +3" }, { 11264, "Mavi Taş Zırh +4" }, { 11265, "Mavi Taş Zırh +5" },
+    { 11266, "Mavi Taş Zırh +6" }, { 11267, "Mavi Taş Zırh +7" }, { 11268, "Mavi Taş Zırh +8" },
+    { 11269, "Mavi Taş Zırh +9" },
+
+    // Altın Taş Zırh
+    { 11270, "Altın Taş Zırh" }, { 11271, "Altın Taş Zırh +1" }, { 11272, "Altın Taş Zırh +2" },
+    { 11273, "Altın Taş Zırh +3" }, { 11274, "Altın Taş Zırh +4" }, { 11275, "Altın Taş Zırh +5" },
+    { 11276, "Altın Taş Zırh +6" }, { 11277, "Altın Taş Zırh +7" }, { 11278, "Altın Taş Zırh +8" },
+    { 11279, "Altın Taş Zırh +9" },
+
+    // Ejderha Tanrısı Zırhı
+    { 11280, "Ejderha Tanrısı Zırhı" }, { 11281, "Ejderha Tanrısı Zırhı +1" }, { 11282, "Ejderha Tanrısı Zırhı +2" },
+    { 11283, "Ejderha Tanrısı Zırhı +3" }, { 11284, "Ejderha Tanrısı Zırhı +4" }, { 11285, "Ejderha Tanrısı Zırhı +5" },
+    { 11286, "Ejderha Tanrısı Zırhı +6" }, { 11287, "Ejderha Tanrısı Zırhı +7" }, { 11288, "Ejderha Tanrısı Zırhı +8" },
+    { 11289, "Ejderha Tanrısı Zırhı +9" },
+
+    // Siyah Çelik Zırh
+    { 11290, "Siyah Çelik Zırh" }, { 11291, "Siyah Çelik Zırh +1" }, { 11292, "Siyah Çelik Zırh +2" },
+    { 11293, "Siyah Çelik Zırh +3" }, { 11294, "Siyah Çelik Zırh +4" }, { 11295, "Siyah Çelik Zırh +5" },
+    { 11296, "Siyah Çelik Zırh +6" }, { 11297, "Siyah Çelik Zırh +7" }, { 11298, "Siyah Çelik Zırh +8" },
+    { 11299, "Siyah Çelik Zırh +9" },
+
+{11600, "Ağıt Plaka Zırh"},        {11601, "Ağıt Plaka Zırh +1"},   {11602, "Ağıt Plaka Zırh +2"},
+    {11603, "Ağıt Plaka Zırh +3"},      {11604, "Ağıt Plaka Zırh +4"},   {11605, "Ağıt Plaka Zırh +5"},
+    {11606, "Ağıt Plaka Zırh +6"},      {11607, "Ağıt Plaka Zırh +7"},   {11608, "Ağıt Plaka Zırh +8"},
+    {11609, "Ağıt Plaka Zırh +9"},
+
+    // Büyücü Plaka Zırh
+    {11610, "Büyücü Plaka Zırh"},      {11611, "Büyücü Plaka Zırh +1"}, {11612, "Büyücü Plaka Zırh +2"},
+    {11613, "Büyücü Plaka Zırh +3"},      {11614, "Büyücü Plaka Zırh +4"}, {11615, "Büyücü Plaka Zırh +5"},
+    {11616, "Büyücü Plaka Zırh +6"},      {11617, "Büyücü Plaka Zırh +7"}, {11618, "Büyücü Plaka Zırh +8"},
+    {11619, "Büyücü Plaka Zırh +9"},
+
+    // Kötü Şans Zırhı
+    {11620, "Kötü Şans Zırhı"},        {11621, "Kötü Şans Zırhı +1"},   {11622, "Kötü Şans Zırhı +2"},
+    {11623, "Kötü Şans Zırhı +3"},      {11624, "Kötü Şans Zırhı +4"},   {11625, "Kötü Şans Zırhı +5"},
+    {11626, "Kötü Şans Zırhı +6"},      {11627, "Kötü Şans Zırhı +7"},   {11628, "Kötü Şans Zırhı +8"},
+    {11629, "Kötü Şans Zırhı +9"},
+
+    // Hayalet Plaka Zırh
+    {11630, "Hayalet Plaka Zırh"},     {11631, "Hayalet Plaka Zırh +1"}, {11632, "Hayalet Plaka Zırh +2"},
+    {11633, "Hayalet Plaka Zırh +3"},     {11634, "Hayalet Plaka Zırh +4"}, {11635, "Hayalet Plaka Zırh +5"},
+    {11636, "Hayalet Plaka Zırh +6"},     {11637, "Hayalet Plaka Zırh +7"}, {11638, "Hayalet Plaka Zırh +8"},
+    {11639, "Hayalet Plaka Zırh +9"},
+
+    // Yin-Yang Zırh
+    {11640, "Yin-Yang Zırh"},          {11641, "Yin-Yang Zırh +1"},     {11642, "Yin-Yang Zırh +2"},
+    {11643, "Yin-Yang Zırh +3"},          {11644, "Yin-Yang Zırh +4"},     {11645, "Yin-Yang Zırh +5"},
+    {11646, "Yin-Yang Zırh +6"},          {11647, "Yin-Yang Zırh +7"},     {11648, "Yin-Yang Zırh +8"},
+    {11649, "Yin-Yang Zırh +9"},
+
+    // Mistik Plaka Zırh
+    {11650, "Mistik Plaka Zırh"},       {11651, "Mistik Plaka Zırh +1"}, {11652, "Mistik Plaka Zırh +2"},
+    {11653, "Mistik Plaka Zırh +3"},       {11654, "Mistik Plaka Zırh +4"}, {11655, "Mistik Plaka Zırh +5"},
+    {11656, "Mistik Plaka Zırh +6"},       {11657, "Mistik Plaka Zırh +7"}, {11658, "Mistik Plaka Zırh +8"},
+    {11659, "Mistik Plaka Zırh +9"},
+
+    // Belirsiz Plaka Zırh
+    {11660, "Belirsiz Plaka Zırh"},     {11661, "Belirsiz Plaka Zırh +1"}, {11662, "Belirsiz Plaka Zırh +2"},
+    {11663, "Belirsiz Plaka Zırh +3"},     {11664, "Belirsiz Plaka Zırh +4"}, {11665, "Belirsiz Plaka Zırh +5"},
+    {11666, "Belirsiz Plaka Zırh +6"},     {11667, "Belirsiz Plaka Zırh +7"}, {11668, "Belirsiz Plaka Zırh +8"},
+    {11669, "Belirsiz Plaka Zırh +9"},
+
+    // Hayalet Surat Zırh
+    {11670, "Hayalet Surat Zırh"},      {11671, "Hayalet Surat Zırh +1"}, {11672, "Hayalet Surat Zırh +2"},
+    {11673, "Hayalet Surat Zırh +3"},      {11674, "Hayalet Surat Zırh +4"}, {11675, "Hayalet Surat Zırh +5"},
+    {11676, "Hayalet Surat Zırh +6"},      {11677, "Hayalet Surat Zırh +7"}, {11678, "Hayalet Surat Zırh +8"},
+    {11679, "Hayalet Surat Zırh +9"},
+
+    // Ruh Plaka Zırh
+    {11680, "Ruh Plaka Zırh"},          {11681, "Ruh Plaka Zırh +1"},     {11682, "Ruh Plaka Zırh +2"},
+    {11683, "Ruh Plaka Zırh +3"},          {11684, "Ruh Plaka Zırh +4"},     {11685, "Ruh Plaka Zırh +5"},
+    {11686, "Ruh Plaka Zırh +6"},          {11687, "Ruh Plaka Zırh +7"},     {11688, "Ruh Plaka Zırh +8"},
+    {11689, "Ruh Plaka Zırh +9"},
+
+    // Kara Büyü Zırh
+    {11690, "Kara Büyü Zırh"},         {11691, "Kara Büyü Zırh +1"},    {11692, "Kara Büyü Zırh +2"},
+    {11693, "Kara Büyü Zırh +3"},        {11694, "Kara Büyü Zırh +4"},    {11695, "Kara Büyü Zırh +5"},
+    {11696, "Kara Büyü Zırh +6"},        {11697, "Kara Büyü Zırh +7"},    {11698, "Kara Büyü Zırh +8"},
+    {11699, "Kara Büyü Zırh +9"},
+
+    {12000, "Mavi Çelik Zırh"},    {12001, "Mavi Çelik Zırh +1"},  {12002, "Mavi Çelik Zırh +2"},
+    {12003, "Mavi Çelik Zırh +3"},  {12004, "Mavi Çelik Zırh +4"},  {12005, "Mavi Çelik Zırh +5"},
+    {12006, "Mavi Çelik Zırh +6"},  {12007, "Mavi Çelik Zırh +7"},  {12008, "Mavi Çelik Zırh +8"},
+    {12009, "Mavi Çelik Zırh +9"},
+
+    // Aura Taş Zırhı
+    {12030, "Aura Taş Zırhı"},         {12031, "Aura Taş Zırhı +1"},    {12032, "Aura Taş Zırhı +2"},
+    {12033, "Aura Taş Zırhı +3"},         {12034, "Aura Taş Zırhı +4"},    {12035, "Aura Taş Zırhı +5"},
+    {12036, "Aura Taş Zırhı +6"},         {12037, "Aura Taş Zırhı +7"},    {12038, "Aura Taş Zırhı +8"},
+    {12039, "Aura Taş Zırhı +9"},
+
+    {20000, "Şeytan Boynuzu Zırhı"},    {20001, "Şeytan Boynuzu Zırhı +1"},  {20002, "Şeytan Boynuzu Zırhı +2"},
+    {20003, "Şeytan Boynuzu Zırhı +3"},  {20004, "Şeytan Boynuzu Zırhı +4"},  {20005, "Şeytan Boynuzu Zırhı +5"},
+    {20006, "Şeytan Boynuzu Zırhı +6"},  {20007, "Şeytan Boynuzu Zırhı +7"},  {20008, "Şeytan Boynuzu Zırhı +8"},
+    {20009, "Şeytan Boynuzu Zırhı +9"},
+
+    {20500, "Kemik Plaka Zırh"},         {20501, "Kemik Plaka Zırh +1"},    {20502, "Kemik Plaka Zırh +2"},
+    {20503, "Kemik Plaka Zırh +3"},         {20504, "Kemik Plaka Zırh +4"},    {20505, "Kemik Plaka Zırh +5"},
+    {20506, "Kemik Plaka Zırh +6"},         {20507, "Kemik Plaka Zırh +7"},    {20508, "Kemik Plaka Zırh +8"},
+    {20509, "Kemik Plaka Zırh +9"},
+
+    {11400, "Gök Mavisi Takım"},        {11401, "Gök Mavisi Takım +1"},   {11402, "Gök Mavisi Takım +2"},
+    {11403, "Gök Mavisi Takım +3"},        {11404, "Gök Mavisi Takım +4"},   {11405, "Gök Mavisi Takım +5"},
+    {11406, "Gök Mavisi Takım +6"},        {11407, "Gök Mavisi Takım +7"},   {11408, "Gök Mavisi Takım +8"},
+    {11409, "Gök Mavisi Takım +9"},
+
+    // Fildişi Takım
+    {11410, "Fildişi Takım"},            {11411, "Fildişi Takım +1"},     {11412, "Fildişi Takım +2"},
+    {11413, "Fildişi Takım +3"},            {11414, "Fildişi Takım +4"},     {11415, "Fildişi Takım +5"},
+    {11416, "Fildişi Takım +6"},            {11417, "Fildişi Takım +7"},     {11418, "Fildişi Takım +8"},
+    {11419, "Fildişi Takım +9"},
+
+    // Koyu Kırmızı Takım
+    {11420, "Koyu Kırmızı Takım"},       {11421, "Koyu Kırmızı Takım +1"}, {11422, "Koyu Kırmızı Takım +2"},
+    {11423, "Koyu Kırmızı Takım +3"},       {11424, "Koyu Kırmızı Takım +4"}, {11425, "Koyu Kırmızı Takım +5"},
+    {11426, "Koyu Kırmızı Takım +6"},       {11427, "Koyu Kırmızı Takım +7"}, {11428, "Koyu Kırmızı Takım +8"},
+    {11429, "Koyu Kırmızı Takım +9"},
+
+    // Kırmızı Karınca Takım
+    {11430, "Kırmızı Karınca Takım"},    {11431, "Kırmızı Karınca Takım +1"}, {11432, "Kırmızı Karınca Takım +2"},
+    {11433, "Kırmızı Karınca Takım +3"},    {11434, "Kırmızı Karınca Takım +4"}, {11435, "Kırmızı Karınca Takım +5"},
+    {11436, "Kırmızı Karınca Takım +6"},    {11437, "Kırmızı Karınca Takım +7"}, {11438, "Kırmızı Karınca Takım +8"},
+    {11439, "Kırmızı Karınca Takım +9"},
+
+    // Karınca Aslan Takımı
+    {11440, "Karınca Aslan Takımı"},     {11441, "Karınca Aslan Takımı +1"}, {11442, "Karınca Aslan Takımı +2"},
+    {11443, "Karınca Aslan Takımı +3"},     {11444, "Karınca Aslan Takımı +4"}, {11445, "Karınca Aslan Takımı +5"},
+    {11446, "Karınca Aslan Takımı +6"},     {11447, "Karınca Aslan Takımı +7"}, {11448, "Karınca Aslan Takımı +8"},
+    {11449, "Karınca Aslan Takımı +9"},
+
+    // Ninja Takımı
+    {11450, "Ninja Takımı"},              {11451, "Ninja Takımı +1"},       {11452, "Ninja Takımı +2"},
+    {11453, "Ninja Takımı +3"},              {11454, "Ninja Takımı +4"},       {11455, "Ninja Takımı +5"},
+    {11456, "Ninja Takımı +6"},              {11457, "Ninja Takımı +7"},       {11458, "Ninja Takımı +8"},
+    {11459, "Ninja Takımı +9"},
+
+    // Genç Ejderha Takımı
+    {11460, "Genç Ejderha Takımı"},        {11461, "Genç Ejderha Takımı +1"},   {11462, "Genç Ejderha Takımı +2"},
+    {11463, "Genç Ejderha Takımı +3"},        {11464, "Genç Ejderha Takımı +4"},   {11465, "Genç Ejderha Takımı +5"},
+    {11466, "Genç Ejderha Takımı +6"},        {11467, "Genç Ejderha Takımı +7"},   {11468, "Genç Ejderha Takımı +8"},
+    {11469, "Genç Ejderha Takımı +9"},
+
+    // Öldürücü Rüzgar Takımı
+    {11470, "Öldürücü Rüzgar Takımı"},     {11471, "Öldürücü Rüzgar Takımı +1"}, {11472, "Öldürücü Rüzgar Takımı +2"},
+    {11473, "Öldürücü Rüzgar Takımı +3"},     {11474, "Öldürücü Rüzgar Takımı +4"}, {11475, "Öldürücü Rüzgar Takımı +5"},
+    {11476, "Öldürücü Rüzgar Takımı +6"},     {11477, "Öldürücü Rüzgar Takımı +7"}, {11478, "Öldürücü Rüzgar Takımı +8"},
+    {11479, "Öldürücü Rüzgar Takımı +9"},
+
+    // Küpeçiçeği Takım
+    {11480, "Küpeçiçeği Takım"},            {11481, "Küpeçiçeği Takım +1"},     {11482, "Küpeçiçeği Takım +2"},
+    {11483, "Küpeçiçeği Takım +3"},            {11484, "Küpeçiçeği Takım +4"},     {11485, "Küpeçiçeği Takım +5"},
+    {11486, "Küpeçiçeği Takım +6"},            {11487, "Küpeçiçeği Takım +7"},     {11488, "Küpeçiçeği Takım +8"},
+    {11489, "Küpeçiçeği Takım +9"},
+
+    // Siyah Rüzgar Takımı
+    {11490, "Siyah Rüzgar Takımı"},         {11491, "Siyah Rüzgar Takımı +1"},   {11492, "Siyah Rüzgar Takımı +2"},
+    {11493, "Siyah Rüzgar Takımı +3"},         {11494, "Siyah Rüzgar Takımı +4"},   {11495, "Siyah Rüzgar Takımı +5"},
+    {11496, "Siyah Rüzgar Takımı +6"},         {11497, "Siyah Rüzgar Takımı +7"},   {11498, "Siyah Rüzgar Takımı +8"},
+    {11499, "Siyah Rüzgar Takımı +9"},
+
+    // Mavi Ejderha Suiti
+    {12020, "Mavi Ejderha Suiti"},       {12021, "Mavi Ejderha Suiti +1"},  {12022, "Mavi Ejderha Suiti +2"},
+    {12023, "Mavi Ejderha Suiti +3"},       {12024, "Mavi Ejderha Suiti +4"},  {12025, "Mavi Ejderha Suiti +5"},
+    {12026, "Mavi Ejderha Suiti +6"},       {12027, "Mavi Ejderha Suiti +7"},  {12028, "Mavi Ejderha Suiti +8"},
+    {12029, "Mavi Ejderha Suiti +9"},
+
+    // Ejder Süvari Giysisi
+    {20250, "Ejder Süvari Giysisi"},     {20251, "Ejder Süvari Giysisi +1"}, {20252, "Ejder Süvari Giysisi +2"},
+    {20253, "Ejder Süvari Giysisi +3"},     {20254, "Ejder Süvari Giysisi +4"}, {20255, "Ejder Süvari Giysisi +5"},
+    {20256, "Ejder Süvari Giysisi +6"},     {20257, "Ejder Süvari Giysisi +7"}, {20258, "Ejder Süvari Giysisi +8"},
+    {20259, "Ejder Süvari Giysisi +9"},
+
+    // Gök Mavisi Elbise
+    {11800, "Gök Mavisi Elbise"},        {11801, "Gök Mavisi Elbise +1"},   {11802, "Gök Mavisi Elbise +2"},
+    {11803, "Gök Mavisi Elbise +3"},        {11804, "Gök Mavisi Elbise +4"},   {11805, "Gök Mavisi Elbise +5"},
+    {11806, "Gök Mavisi Elbise +6"},        {11807, "Gök Mavisi Elbise +7"},   {11808, "Gök Mavisi Elbise +8"},
+    {11809, "Gök Mavisi Elbise +9"},
+
+    // Turkuaz Elbise
+    {11810, "Turkuaz Elbise"},            {11811, "Turkuaz Elbise +1"},     {11812, "Turkuaz Elbise +2"},
+    {11813, "Turkuaz Elbise +3"},            {11814, "Turkuaz Elbise +4"},     {11815, "Turkuaz Elbise +5"},
+    {11816, "Turkuaz Elbise +6"},            {11817, "Turkuaz Elbise +7"},     {11818, "Turkuaz Elbise +8"},
+    {11819, "Turkuaz Elbise +9"},
+
+    // Pembe Elbise
+    {11820, "Pembe Elbise"},               {11821, "Pembe Elbise +1"},      {11822, "Pembe Elbise +2"},
+    {11823, "Pembe Elbise +3"},               {11824, "Pembe Elbise +4"},      {11825, "Pembe Elbise +5"},
+    {11826, "Pembe Elbise +6"},               {11827, "Pembe Elbise +7"},      {11828, "Pembe Elbise +8"},
+    {11829, "Pembe Elbise +9"},
+
+    // Sevgi Elbisesi
+    {11830, "Sevgi Elbisesi"},              {11831, "Sevgi Elbisesi +1"},   {11832, "Sevgi Elbisesi +2"},
+    {11833, "Sevgi Elbisesi +3"},              {11834, "Sevgi Elbisesi +4"},   {11835, "Sevgi Elbisesi +5"},
+    {11836, "Sevgi Elbisesi +6"},              {11837, "Sevgi Elbisesi +7"},   {11838, "Sevgi Elbisesi +8"},
+    {11839, "Sevgi Elbisesi +9"},
+
+    // Sema Elbisesi
+    {11840, "Sema Elbisesi"},             {11841, "Sema Elbisesi +1"},      {11842, "Sema Elbisesi +2"},
+    {11843, "Sema Elbisesi +3"},             {11844, "Sema Elbisesi +4"},      {11845, "Sema Elbisesi +5"},
+    {11846, "Sema Elbisesi +6"},             {11847, "Sema Elbisesi +7"},      {11848, "Sema Elbisesi +8"},
+    {11849, "Sema Elbisesi +9"},
+
+    // Güneş Elbisesi
+    {11850, "Güneş Elbisesi"},              {11851, "Güneş Elbisesi +1"},   {11852, "Güneş Elbisesi +2"},
+    {11853, "Güneş Elbisesi +3"},              {11854, "Güneş Elbisesi +4"},   {11855, "Güneş Elbisesi +5"},
+    {11856, "Güneş Elbisesi +6"},              {11857, "Güneş Elbisesi +7"},   {11858, "Güneş Elbisesi +8"},
+    {11859, "Güneş Elbisesi +9"},
+
+    // Manevi Elbise
+    {11860, "Manevi Elbise"},               {11861, "Manevi Elbise +1"},    {11862, "Manevi Elbise +2"},
+    {11863, "Manevi Elbise +3"},               {11864, "Manevi Elbise +4"},    {11865, "Manevi Elbise +5"},
+    {11866, "Manevi Elbise +6"},               {11867, "Manevi Elbise +7"},    {11868, "Manevi Elbise +8"},
+    {11869, "Manevi Elbise +9"},
+
+    // Turuncu Kedi Elbisesi
+    {11870, "Turuncu Kedi Elbisesi"},       {11871, "Turuncu Kedi Elbisesi +1"},  {11872, "Turuncu Kedi Elbisesi +2"},
+    {11873, "Turuncu Kedi Elbisesi +3"},       {11874, "Turuncu Kedi Elbisesi +4"},  {11875, "Turuncu Kedi Elbisesi +5"},
+    {11876, "Turuncu Kedi Elbisesi +6"},       {11877, "Turuncu Kedi Elbisesi +7"},  {11878, "Turuncu Kedi Elbisesi +8"},
+    {11879, "Turuncu Kedi Elbisesi +9"},
+
+    // Soylu Kadın Elbisesi
+    {11880, "Soylu Kadın Elbisesi"},         {11881, "Soylu Kadın Elbisesi +1"},   {11882, "Soylu Kadın Elbisesi +2"},
+    {11883, "Soylu Kadın Elbisesi +3"},         {11884, "Soylu Kadın Elbisesi +4"},   {11885, "Soylu Kadın Elbisesi +5"},
+    {11886, "Soylu Kadın Elbisesi +6"},         {11887, "Soylu Kadın Elbisesi +7"},   {11888, "Soylu Kadın Elbisesi +8"},
+    {11889, "Soylu Kadın Elbisesi +9"},
+
+    // Siyah Elbise
+    {11890, "Siyah Elbise"},                  {11891, "Siyah Elbise +1"},       {11892, "Siyah Elbise +2"},
+    {11893, "Siyah Elbise +3"},                  {11894, "Siyah Elbise +4"},       {11895, "Siyah Elbise +5"},
+    {11896, "Siyah Elbise +6"},                  {11897, "Siyah Elbise +7"},       {11898, "Siyah Elbise +8"},
+    {11899, "Siyah Elbise +9"},
+
+    // Ejderha Elbisesi
+    {12040, "Ejderha Elbisesi"},              {12041, "Ejderha Elbisesi +1"},   {12042, "Ejderha Elbisesi +2"},
+    {12043, "Ejderha Elbisesi +3"},              {12044, "Ejderha Elbisesi +4"},   {12045, "Ejderha Elbisesi +5"},
+    {12046, "Ejderha Elbisesi +6"},              {12047, "Ejderha Elbisesi +7"},   {12048, "Ejderha Elbisesi +8"},
+    {12049, "Ejderha Elbisesi +9"},
+
+    // Altın Giysi
+    {20750, "Altın Giysi"},                 {20751, "Altın Giysi +1"},       {20752, "Altın Giysi +2"},
+    {20753, "Altın Giysi +3"},                 {20754, "Altın Giysi +4"},       {20755, "Altın Giysi +5"},
+    {20756, "Altın Giysi +6"},                 {20757, "Altın Giysi +7"},       {20758, "Altın Giysi +8"},
+    {20759, "Altın Giysi +9"},
+
+    // Tahta Bilezik
+    {14000, "Tahta Bilezik"},                {14001, "Tahta Bilezik +1"},     {14002, "Tahta Bilezik +2"},
+    {14003, "Tahta Bilezik +3"},                {14004, "Tahta Bilezik +4"},     {14005, "Tahta Bilezik +5"},
+    {14006, "Tahta Bilezik +6"},                {14007, "Tahta Bilezik +7"},     {14008, "Tahta Bilezik +8"},
+    {14009, "Tahta Bilezik +9"},
+
+    // Bakır Bilezik
+    {14020, "Bakır Bilezik"},                 {14021, "Bakır Bilezik +1"},      {14022, "Bakır Bilezik +2"},
+    {14023, "Bakır Bilezik +3"},                 {14024, "Bakır Bilezik +4"},      {14025, "Bakır Bilezik +5"},
+    {14026, "Bakır Bilezik +6"},                 {14027, "Bakır Bilezik +7"},      {14028, "Bakır Bilezik +8"},
+    {14029, "Bakır Bilezik +9"},
+
+    // Gümüş Bilezik
+    {14040, "Gümüş Bilezik"},                 {14041, "Gümüş Bilezik +1"},      {14042, "Gümüş Bilezik +2"},
+    {14043, "Gümüş Bilezik +3"},                 {14044, "Gümüş Bilezik +4"},      {14045, "Gümüş Bilezik +5"},
+    {14046, "Gümüş Bilezik +6"},                 {14047, "Gümüş Bilezik +7"},      {14048, "Gümüş Bilezik +8"},
+    {14049, "Gümüş Bilezik +9"},
+
+    // Altın Bilezik
+    {14060, "Altın Bilezik"},                 {14061, "Altın Bilezik +1"},      {14062, "Altın Bilezik +2"},
+    {14063, "Altın Bilezik +3"},                 {14064, "Altın Bilezik +4"},      {14065, "Altın Bilezik +5"},
+    {14066, "Altın Bilezik +6"},                 {14067, "Altın Bilezik +7"},      {14068, "Altın Bilezik +8"},
+    {14069, "Altın Bilezik +9"},
+
+    // Yeşim Taşı Bilezik
+    {14080, "Yeşim Taşı Bilezik"},            {14081, "Yeşim Taşı Bilezik +1"},   {14082, "Yeşim Taşı Bilezik +2"},
+    {14083, "Yeşim Taşı Bilezik +3"},            {14084, "Yeşim Taşı Bilezik +4"},   {14085, "Yeşim Taşı Bilezik +5"},
+    {14086, "Yeşim Taşı Bilezik +6"},            {14087, "Yeşim Taşı Bilezik +7"},   {14088, "Yeşim Taşı Bilezik +8"},
+    {14089, "Yeşim Taşı Bilezik +9"},
+
+    // Abanoz Bilezik
+    {14100, "Abanoz Bilezik"},                 {14101, "Abanoz Bilezik +1"},      {14102, "Abanoz Bilezik +2"},
+    {14103, "Abanoz Bilezik +3"},                 {14104, "Abanoz Bilezik +4"},      {14105, "Abanoz Bilezik +5"},
+    {14106, "Abanoz Bilezik +6"},                 {14107, "Abanoz Bilezik +7"},      {14108, "Abanoz Bilezik +8"},
+    {14109, "Abanoz Bilezik +9"},
+
+    // İnci Bilezik
+    {14120, "İnci Bilezik"},                   {14121, "İnci Bilezik +1"},        {14122, "İnci Bilezik +2"},
+    {14123, "İnci Bilezik +3"},                   {14124, "İnci Bilezik +4"},        {14125, "İnci Bilezik +5"},
+    {14126, "İnci Bilezik +6"},                   {14127, "İnci Bilezik +7"},        {14128, "İnci Bilezik +8"},
+    {14129, "İnci Bilezik +9"},
+
+    // Beyaz Altın Bilezik
+    {14140, "Beyaz Altın Bilezik"},            {14141, "Beyaz Altın Bilezik +1"},   {14142, "Beyaz Altın Bilezik +2"},
+    {14143, "Beyaz Altın Bilezik +3"},            {14144, "Beyaz Altın Bilezik +4"},   {14145, "Beyaz Altın Bilezik +5"},
+    {14146, "Beyaz Altın Bilezik +6"},            {14147, "Beyaz Altın Bilezik +7"},   {14148, "Beyaz Altın Bilezik +8"},
+    {14149, "Beyaz Altın Bilezik +9"},
+
+    // Kristal Bilezik
+    {14160, "Kristal Bilezik"},                {14161, "Kristal Bilezik +1"},      {14162, "Kristal Bilezik +2"},
+    {14163, "Kristal Bilezik +3"},                {14164, "Kristal Bilezik +4"},      {14165, "Kristal Bilezik +5"},
+    {14166, "Kristal Bilezik +6"},                {14167, "Kristal Bilezik +7"},      {14168, "Kristal Bilezik +8"},
+    {14169, "Kristal Bilezik +9"},
+
+    // Mor Yakut Bilezik
+        {14180, "Mor Yakut Bilezik"},            {14181, "Mor Yakut Bilezik +1"}, {14182, "Mor Yakut Bilezik +2"},
+        {14183, "Mor Yakut Bilezik +3"},          {14184, "Mor Yakut Bilezik +4"}, {14185, "Mor Yakut Bilezik +5"},
+        {14186, "Mor Yakut Bilezik +6"},          {14187, "Mor Yakut Bilezik +7"}, {14188, "Mor Yakut Bilezik +8"},
+        {14189, "Mor Yakut Bilezik +9"},
+
+        // Cennetin Gözü Bilezik
+        {14200, "Cennetin Gözü Bilezik"},        {14201, "Cennetin Gözü Bilezik +1"}, {14202, "Cennetin Gözü Bilezik +2"},
+        {14203, "Cennetin Gözü Bilezik +3"},     {14204, "Cennetin Gözü Bilezik +4"}, {14205, "Cennetin Gözü Bilezik +5"},
+        {14206, "Cennetin Gözü Bilezik +6"},     {14207, "Cennetin Gözü Bilezik +7"}, {14208, "Cennetin Gözü Bilezik +8"},
+        {14209, "Cennetin Gözü Bilezik +9"},
+
+        // Ruh Kristali Bilekliği
+        {14220, "Ruh Kristali Bilekliği"},       {14221, "Ruh Kristali Bilekliği +1"}, {14222, "Ruh Kristali Bilekliği +2"},
+        {14223, "Ruh Kristali Bilekliği +3"},     {14224, "Ruh Kristali Bilekliği +4"}, {14225, "Ruh Kristali Bilekliği +5"},
+        {14226, "Ruh Kristali Bilekliği +6"},     {14227, "Ruh Kristali Bilekliği +7"}, {14228, "Ruh Kristali Bilekliği +8"},
+        {14229, "Ruh Kristali Bilekliği +9"},
+
+        // Yakut Bileklik
+        {14500, "Yakut Bileklik"},                {14501, "Yakut Bileklik +1"},    {14502, "Yakut Bileklik +2"},
+        {14503, "Yakut Bileklik +3"},             {14504, "Yakut Bileklik +4"},    {14505, "Yakut Bileklik +5"},
+        {14506, "Yakut Bileklik +6"},             {14507, "Yakut Bileklik +7"},    {14508, "Yakut Bileklik +8"},
+        {14509, "Yakut Bileklik +9"},
+
+        // Grena Bileklik
+        {14520, "Grena Bileklik"},                {14521, "Grena Bileklik +1"},    {14522, "Grena Bileklik +2"},
+        {14523, "Grena Bileklik +3"},             {14524, "Grena Bileklik +4"},    {14525, "Grena Bileklik +5"},
+        {14526, "Grena Bileklik +6"},             {14527, "Grena Bileklik +7"},    {14528, "Grena Bileklik +8"},
+        {14529, "Grena Bileklik +9"},
+
+        // Zümrüt Bileklik
+        {14540, "Zümrüt Bileklik"},               {14541, "Zümrüt Bileklik +1"},   {14542, "Zümrüt Bileklik +2"},
+        {14543, "Zümrüt Bileklik +3"},            {14544, "Zümrüt Bileklik +4"},   {14545, "Zümrüt Bileklik +5"},
+        {14546, "Zümrüt Bileklik +6"},            {14547, "Zümrüt Bileklik +7"},   {14548, "Zümrüt Bileklik +8"},
+        {14549, "Zümrüt Bileklik +9"},
+
+        // Safir Bileklik
+        {14560, "Safir Bileklik"},                 {14561, "Safir Bileklik +1"},    {14562, "Safir Bileklik +2"},
+        {14563, "Safir Bileklik +3"},              {14564, "Safir Bileklik +4"},    {14565, "Safir Bileklik +5"},
+        {14566, "Safir Bileklik +6"},              {14567, "Safir Bileklik +7"},    {14568, "Safir Bileklik +8"},
+        {14569, "Safir Bileklik +9"},
+
+        // Tahta Küpe
+        {17000, "Tahta Küpe"},                    {17001, "Tahta Küpe +1"},        {17002, "Tahta Küpe +2"},
+        {17003, "Tahta Küpe +3"},                 {17004, "Tahta Küpe +4"},        {17005, "Tahta Küpe +5"},
+        {17006, "Tahta Küpe +6"},                 {17007, "Tahta Küpe +7"},        {17008, "Tahta Küpe +8"},
+        {17009, "Tahta Küpe +9"},
+
+        // Bakır Küpe
+        {17020, "Bakır Küpe"},                    {17021, "Bakır Küpe +1"},        {17022, "Bakır Küpe +2"},
+        {17023, "Bakır Küpe +3"},                 {17024, "Bakır Küpe +4"},        {17025, "Bakır Küpe +5"},
+        {17026, "Bakır Küpe +6"},                 {17027, "Bakır Küpe +7"},        {17028, "Bakır Küpe +8"},
+        {17029, "Bakır Küpe +9"},
+
+        // Gümüş Küpe
+        {17040, "Gümüş Küpe"},                    {17041, "Gümüş Küpe +1"},        {17042, "Gümüş Küpe +2"},
+        {17043, "Gümüş Küpe +3"},                 {17044, "Gümüş Küpe +4"},        {17045, "Gümüş Küpe +5"},
+        {17046, "Gümüş Küpe +6"},                 {17047, "Gümüş Küpe +7"},        {17048, "Gümüş Küpe +8"},
+        {17049, "Gümüş Küpe +9"},
+
+        // Altın Küpe
+        {17060, "Altın Küpe"},                    {17061, "Altın Küpe +1"},        {17062, "Altın Küpe +2"},
+        {17063, "Altın Küpe +3"},                 {17064, "Altın Küpe +4"},        {17065, "Altın Küpe +5"},
+        {17066, "Altın Küpe +6"},                 {17067, "Altın Küpe +7"},        {17068, "Altın Küpe +8"},
+        {17069, "Altın Küpe +9"},
+
+        // Yeşim Taşı Küpe
+        {17080, "Yeşim Taşı Küpe"},               {17081, "Yeşim Taşı Küpe +1"},    {17082, "Yeşim Taşı Küpe +2"},
+        {17083, "Yeşim Taşı Küpe +3"},            {17084, "Yeşim Taşı Küpe +4"},    {17085, "Yeşim Taşı Küpe +5"},
+        {17086, "Yeşim Taşı Küpe +6"},            {17087, "Yeşim Taşı Küpe +7"},    {17088, "Yeşim Taşı Küpe +8"},
+        {17089, "Yeşim Taşı Küpe +9"},
+
+        // Abanoz Küpe
+        {17100, "Abanoz Küpe"},                   {17101, "Abanoz Küpe +1"},       {17102, "Abanoz Küpe +2"},
+        {17103, "Abanoz Küpe +3"},                {17104, "Abanoz Küpe +4"},       {17105, "Abanoz Küpe +5"},
+        {17106, "Abanoz Küpe +6"},                {17107, "Abanoz Küpe +7"},       {17108, "Abanoz Küpe +8"},
+        {17109, "Abanoz Küpe +9"},
+
+        // İnci Küpe
+        {17120, "İnci Küpe"},                     {17121, "İnci Küpe +1"},         {17122, "İnci Küpe +2"},
+        {17123, "İnci Küpe +3"},                  {17124, "İnci Küpe +4"},         {17125, "İnci Küpe +5"},
+        {17126, "İnci Küpe +6"},                  {17127, "İnci Küpe +7"},         {17128, "İnci Küpe +8"},
+        {17129, "İnci Küpe +9"},
+
+        // Beyaz Altın Küpe
+            {17140, "Beyaz Altın Küpe"},              {17141, "Beyaz Altın Küpe +1"},  {17142, "Beyaz Altın Küpe +2"},
+            {17143, "Beyaz Altın Küpe +3"},              {17144, "Beyaz Altın Küpe +4"},  {17145, "Beyaz Altın Küpe +5"},
+            {17146, "Beyaz Altın Küpe +6"},              {17147, "Beyaz Altın Küpe +7"},  {17148, "Beyaz Altın Küpe +8"},
+            {17149, "Beyaz Altın Küpe +9"},
+
+            // Kristal Küpe
+            {17160, "Kristal Küpe"},                    {17161, "Kristal Küpe +1"},      {17162, "Kristal Küpe +2"},
+            {17163, "Kristal Küpe +3"},                 {17164, "Kristal Küpe +4"},      {17165, "Kristal Küpe +5"},
+            {17166, "Kristal Küpe +6"},                 {17167, "Kristal Küpe +7"},      {17168, "Kristal Küpe +8"},
+            {17169, "Kristal Küpe +9"},
+
+            // Ametist Küpe
+            {17180, "Ametist Küpe"},                    {17181, "Ametist Küpe +1"},      {17182, "Ametist Küpe +2"},
+            {17183, "Ametist Küpe +3"},                 {17184, "Ametist Küpe +4"},      {17185, "Ametist Küpe +5"},
+            {17186, "Ametist Küpe +6"},                 {17187, "Ametist Küpe +7"},      {17188, "Ametist Küpe +8"},
+            {17189, "Ametist Küpe +9"},
+
+            // Cennetin Gözü Küpe
+            {17200, "Cennetin Gözü Küpe"},              {17201, "Cennetin Gözü Küpe +1"}, {17202, "Cennetin Gözü Küpe +2"},
+            {17203, "Cennetin Gözü Küpe +3"},           {17204, "Cennetin Gözü Küpe +4"}, {17205, "Cennetin Gözü Küpe +5"},
+            {17206, "Cennetin Gözü Küpe +6"},           {17207, "Cennetin Gözü Küpe +7"}, {17208, "Cennetin Gözü Küpe +8"},
+            {17209, "Cennetin Gözü Küpe +9"},
+
+            // Ruh Kristali Küpeleri
+            {17220, "Ruh Kristali Küpeleri"},           {17221, "Ruh Kristali Küpeleri +1"}, {17222, "Ruh Kristali Küpeleri +2"},
+            {17223, "Ruh Kristali Küpeleri +3"},        {17224, "Ruh Kristali Küpeleri +4"}, {17225, "Ruh Kristali Küpeleri +5"},
+            {17226, "Ruh Kristali Küpeleri +6"},        {17227, "Ruh Kristali Küpeleri +7"}, {17228, "Ruh Kristali Küpeleri +8"},
+            {17229, "Ruh Kristali Küpeleri +9"},
+
+            // Yakut Küpeler
+            {17500, "Yakut Küpeler"},                   {17501, "Yakut Küpeler +1"},     {17502, "Yakut Küpeler +2"},
+            {17503, "Yakut Küpeler +3"},                {17504, "Yakut Küpeler +4"},     {17505, "Yakut Küpeler +5"},
+            {17506, "Yakut Küpeler +6"},                {17507, "Yakut Küpeler +7"},     {17508, "Yakut Küpeler +8"},
+            {17509, "Yakut Küpeler +9"},
+
+            // Grena Küpeler
+            {17520, "Grena Küpeler"},                   {17521, "Grena Küpeler +1"},     {17522, "Grena Küpeler +2"},
+            {17523, "Grena Küpeler +3"},                {17524, "Grena Küpeler +4"},     {17525, "Grena Küpeler +5"},
+            {17526, "Grena Küpeler +6"},                {17527, "Grena Küpeler +7"},     {17528, "Grena Küpeler +8"},
+            {17529, "Grena Küpeler +9"},
+
+            // Zümrüt Küpeler
+            {17540, "Zümrüt Küpeler"},                  {17541, "Zümrüt Küpeler +1"},    {17542, "Zümrüt Küpeler +2"},
+            {17543, "Zümrüt Küpeler +3"},               {17544, "Zümrüt Küpeler +4"},    {17545, "Zümrüt Küpeler +5"},
+            {17546, "Zümrüt Küpeler +6"},               {17547, "Zümrüt Küpeler +7"},    {17548, "Zümrüt Küpeler +8"},
+            {17549, "Zümrüt Küpeler +9"},
+
+            // Safir Küpeler
+            {17560, "Safir Küpeler"},                   {17561, "Safir Küpeler +1"},     {17562, "Safir Küpeler +2"},
+            {17563, "Safir Küpeler +3"},                {17564, "Safir Küpeler +4"},     {17565, "Safir Küpeler +5"},
+            {17566, "Safir Küpeler +6"},                {17567, "Safir Küpeler +7"},     {17568, "Safir Küpeler +8"},
+            {17569, "Safir Küpeler +9"},
+
+            // Tahta Kolye
+               {16000, "Tahta Kolye"},  {16001, "Tahta Kolye +1"},  {16002, "Tahta Kolye +2"},
+               {16003, "Tahta Kolye +3"},  {16004, "Tahta Kolye +4"},  {16005, "Tahta Kolye +5"},
+               {16006, "Tahta Kolye +6"},  {16007, "Tahta Kolye +7"},  {16008, "Tahta Kolye +8"},
+               {16009, "Tahta Kolye +9"},
+
+               // Bakır Kolye
+               {16020, "Bakır Kolye"},  {16021, "Bakır Kolye +1"},  {16022, "Bakır Kolye +2"},
+               {16023, "Bakır Kolye +3"},  {16024, "Bakır Kolye +4"},  {16025, "Bakır Kolye +5"},
+               {16026, "Bakır Kolye +6"},  {16027, "Bakır Kolye +7"},  {16028, "Bakır Kolye +8"},
+               {16029, "Bakır Kolye +9"},
+
+               // Gümüş Kolye
+               {16040, "Gümüş Kolye"},  {16041, "Gümüş Kolye +1"},  {16042, "Gümüş Kolye +2"},
+               {16043, "Gümüş Kolye +3"},  {16044, "Gümüş Kolye +4"},  {16045, "Gümüş Kolye +5"},
+               {16046, "Gümüş Kolye +6"},  {16047, "Gümüş Kolye +7"},  {16048, "Gümüş Kolye +8"},
+               {16049, "Gümüş Kolye +9"},
+
+               // Altın Kolye
+               {16060, "Altın Kolye"},  {16061, "Altın Kolye +1"},  {16062, "Altın Kolye +2"},
+               {16063, "Altın Kolye +3"},  {16064, "Altın Kolye +4"},  {16065, "Altın Kolye +5"},
+               {16066, "Altın Kolye +6"},  {16067, "Altın Kolye +7"},  {16068, "Altın Kolye +8"},
+               {16069, "Altın Kolye +9"},
+
+               // Yeşim Taşı Kolye
+               {16080, "Yeşim Taşı Kolye"},  {16081, "Yeşim Taşı Kolye +1"},  {16082, "Yeşim Taşı Kolye +2"},
+               {16083, "Yeşim Taşı Kolye +3"},  {16084, "Yeşim Taşı Kolye +4"},  {16085, "Yeşim Taşı Kolye +5"},
+               {16086, "Yeşim Taşı Kolye +6"},  {16087, "Yeşim Taşı Kolye +7"},  {16088, "Yeşim Taşı Kolye +8"},
+               {16089, "Yeşim Taşı Kolye +9"},
+
+               // Abanoz Kolye
+               {16100, "Abanoz Kolye"},  {16101, "Abanoz Kolye +1"},  {16102, "Abanoz Kolye +2"},
+               {16103, "Abanoz Kolye +3"},  {16104, "Abanoz Kolye +4"},  {16105, "Abanoz Kolye +5"},
+               {16106, "Abanoz Kolye +6"},  {16107, "Abanoz Kolye +7"},  {16108, "Abanoz Kolye +8"},
+               {16109, "Abanoz Kolye +9"},
+
+               // İnci Kolye
+               {16120, "İnci Kolye"},  {16121, "İnci Kolye +1"},  {16122, "İnci Kolye +2"},
+               {16123, "İnci Kolye +3"},  {16124, "İnci Kolye +4"},  {16125, "İnci Kolye +5"},
+               {16126, "İnci Kolye +6"},  {16127, "İnci Kolye +7"},  {16128, "İnci Kolye +8"},
+               {16129, "İnci Kolye +9"},
+
+               // Beyaz Altın Kolye
+               {16140, "Beyaz Altın Kolye"},  {16141, "Beyaz Altın Kolye +1"},  {16142, "Beyaz Altın Kolye +2"},
+               {16143, "Beyaz Altın Kolye +3"},  {16144, "Beyaz Altın Kolye +4"},  {16145, "Beyaz Altın Kolye +5"},
+               {16146, "Beyaz Altın Kolye +6"},  {16147, "Beyaz Altın Kolye +7"},  {16148, "Beyaz Altın Kolye +8"},
+               {16149, "Beyaz Altın Kolye +9"},
+
+               // Kristal Kolye
+               {16160, "Kristal Kolye"},  {16161, "Kristal Kolye +1"},  {16162, "Kristal Kolye +2"},
+               {16163, "Kristal Kolye +3"},  {16164, "Kristal Kolye +4"},  {16165, "Kristal Kolye +5"},
+               {16166, "Kristal Kolye +6"},  {16167, "Kristal Kolye +7"},  {16168, "Kristal Kolye +8"},
+               {16169, "Kristal Kolye +9"},
+
+               // Mor Yakut Kolye
+               {16180, "Mor Yakut Kolye"},  {16181, "Mor Yakut Kolye +1"},  {16182, "Mor Yakut Kolye +2"},
+               {16183, "Mor Yakut Kolye +3"},  {16184, "Mor Yakut Kolye +4"},  {16185, "Mor Yakut Kolye +5"},
+               {16186, "Mor Yakut Kolye +6"},  {16187, "Mor Yakut Kolye +7"},  {16188, "Mor Yakut Kolye +8"},
+               {16189, "Mor Yakut Kolye +9"},
+
+               // Cennetin Gözü Kolye
+               {16200, "Cennetin Gözü Kolye"},  {16201, "Cennetin Gözü Kolye +1"},  {16202, "Cennetin Gözü Kolye +2"},
+               {16203, "Cennetin Gözü Kolye +3"},  {16204, "Cennetin Gözü Kolye +4"},  {16205, "Cennetin Gözü Kolye +5"},
+               {16206, "Cennetin Gözü Kolye +6"},  {16207, "Cennetin Gözü Kolye +7"},  {16208, "Cennetin Gözü Kolye +8"},
+               {16209, "Cennetin Gözü Kolye +9"},
+
+               // Ruh Kristali Kolyesi
+               {16220, "Ruh Kristali Kolyesi"},  {16221, "Ruh Kristali Kolyesi +1"},  {16222, "Ruh Kristali Kolyesi +2"},
+               {16223, "Ruh Kristali Kolyesi +3"},  {16224, "Ruh Kristali Kolyesi +4"},  {16225, "Ruh Kristali Kolyesi +5"},
+               {16226, "Ruh Kristali Kolyesi +6"},  {16227, "Ruh Kristali Kolyesi +7"},  {16228, "Ruh Kristali Kolyesi +8"},
+               {16229, "Ruh Kristali Kolyesi +9"},
+
+               // Yakut Kolye
+               {16500, "Yakut Kolye"},  {16501, "Yakut Kolye +1"},  {16502, "Yakut Kolye +2"},
+               {16503, "Yakut Kolye +3"},  {16504, "Yakut Kolye +4"},  {16505, "Yakut Kolye +5"},
+               {16506, "Yakut Kolye +6"},  {16507, "Yakut Kolye +7"},  {16508, "Yakut Kolye +8"},
+               {16509, "Yakut Kolye +9"},
+
+               // Grena Kolye
+               {16520, "Grena Kolye"},  {16521, "Grena Kolye +1"},  {16522, "Grena Kolye +2"},
+               {16523, "Grena Kolye +3"},  {16524, "Grena Kolye +4"},  {16525, "Grena Kolye +5"},
+               {16526, "Grena Kolye +6"},  {16527, "Grena Kolye +7"},  {16528, "Grena Kolye +8"},
+               {16529, "Grena Kolye +9"},
+
+               // Zümrüt Kolye
+               {16540, "Zümrüt Kolye"},  {16541, "Zümrüt Kolye +1"},  {16542, "Zümrüt Kolye +2"},
+               {16543, "Zümrüt Kolye +3"},  {16544, "Zümrüt Kolye +4"},  {16545, "Zümrüt Kolye +5"},
+               {16546, "Zümrüt Kolye +6"},  {16547, "Zümrüt Kolye +7"},  {16548, "Zümrüt Kolye +8"},
+               {16549, "Zümrüt Kolye +9"},
+
+               // Safir Kolye
+               {16560, "Safir Kolye"},  {16561, "Safir Kolye +1"},  {16562, "Safir Kolye +2"},
+               {16563, "Safir Kolye +3"},  {16564, "Safir Kolye +4"},  {16565, "Safir Kolye +5"},
+               {16566, "Safir Kolye +6"},  {16567, "Safir Kolye +7"},  {16568, "Safir Kolye +8"},
+               {16569, "Safir Kolye +9"},
+
+               // Deri Ayakkabı
+                   {15000, "Deri Ayakkabı"},  {15001, "Deri Ayakkabı +1"},  {15002, "Deri Ayakkabı +2"},
+                   {15003, "Deri Ayakkabı +3"},  {15004, "Deri Ayakkabı +4"},  {15005, "Deri Ayakkabı +5"},
+                   {15006, "Deri Ayakkabı +6"},  {15007, "Deri Ayakkabı +7"},  {15008, "Deri Ayakkabı +8"},
+                   {15009, "Deri Ayakkabı +9"},
+
+                   // Bambu Derisi Ayakkabı
+                   {15020, "Bambu Derisi Ayakkabı"},  {15021, "Bambu Derisi Ayakkabı +1"},  {15022, "Bambu Derisi Ayakkabı +2"},
+                   {15023, "Bambu Derisi Ayakkabı +3"},  {15024, "Bambu Derisi Ayakkabı +4"},  {15025, "Bambu Derisi Ayakkabı +5"},
+                   {15026, "Bambu Derisi Ayakkabı +6"},  {15027, "Bambu Derisi Ayakkabı +7"},  {15028, "Bambu Derisi Ayakkabı +8"},
+                   {15029, "Bambu Derisi Ayakkabı +9"},
+
+                   // Tahta Ayakkabı
+                   {15040, "Tahta Ayakkabı"},  {15041, "Tahta Ayakkabı +1"},  {15042, "Tahta Ayakkabı +2"},
+                   {15043, "Tahta Ayakkabı +3"},  {15044, "Tahta Ayakkabı +4"},  {15045, "Tahta Ayakkabı +5"},
+                   {15046, "Tahta Ayakkabı +6"},  {15047, "Tahta Ayakkabı +7"},  {15048, "Tahta Ayakkabı +8"},
+                   {15049, "Tahta Ayakkabı +9"},
+
+                   // Altın Bezeli Ayakkabı
+                   {15060, "Altın Bezeli Ayakkabı"},  {15061, "Altın Bezeli Ayakkabı +1"},  {15062, "Altın Bezeli Ayakkabı +2"},
+                   {15063, "Altın Bezeli Ayakkabı +3"},  {15064, "Altın Bezeli Ayakkabı +4"},  {15065, "Altın Bezeli Ayakkabı +5"},
+                   {15066, "Altın Bezeli Ayakkabı +6"},  {15067, "Altın Bezeli Ayakkabı +7"},  {15068, "Altın Bezeli Ayakkabı +8"},
+                   {15069, "Altın Bezeli Ayakkabı +9"},
+
+                   // Deri Çizme
+                   {15080, "Deri Çizme"},  {15081, "Deri Çizme +1"},  {15082, "Deri Çizme +2"},
+                   {15083, "Deri Çizme +3"},  {15084, "Deri Çizme +4"},  {15085, "Deri Çizme +5"},
+                   {15086, "Deri Çizme +6"},  {15087, "Deri Çizme +7"},  {15088, "Deri Çizme +8"},
+                   {15089, "Deri Çizme +9"},
+
+                   // Altın Ayakkabı
+                   {15100, "Altın Ayakkabı"},  {15101, "Altın Ayakkabı +1"},  {15102, "Altın Ayakkabı +2"},
+                   {15103, "Altın Ayakkabı +3"},  {15104, "Altın Ayakkabı +4"},  {15105, "Altın Ayakkabı +5"},
+                   {15106, "Altın Ayakkabı +6"},  {15107, "Altın Ayakkabı +7"},  {15108, "Altın Ayakkabı +8"},
+                   {15109, "Altın Ayakkabı +9"},
+
+                   // Tunç Ayakkabı
+                   {15120, "Tunç Ayakkabı"},  {15121, "Tunç Ayakkabı +1"},  {15122, "Tunç Ayakkabı +2"},
+                   {15123, "Tunç Ayakkabı +3"},  {15124, "Tunç Ayakkabı +4"},  {15125, "Tunç Ayakkabı +5"},
+                   {15126, "Tunç Ayakkabı +6"},  {15127, "Tunç Ayakkabı +7"},  {15128, "Tunç Ayakkabı +8"},
+                   {15129, "Tunç Ayakkabı +9"},
+
+                   // Yeşim Taşı Ayakkabı
+                   {15140, "Yeşim Taşı Ayakkabı"},  {15141, "Yeşim Taşı Ayakkabı +1"},  {15142, "Yeşim Taşı Ayakkabı +2"},
+                   {15143, "Yeşim Taşı Ayakkabı +3"},  {15144, "Yeşim Taşı Ayakkabı +4"},  {15145, "Yeşim Taşı Ayakkabı +5"},
+                   {15146, "Yeşim Taşı Ayakkabı +6"},  {15147, "Yeşim Taşı Ayakkabı +7"},  {15148, "Yeşim Taşı Ayakkabı +8"},
+                   {15149, "Yeşim Taşı Ayakkabı +9"},
+
+                   // Mest Eden Ayakkabı
+                   {15160, "Mest Eden Ayakkabı"},  {15161, "Mest Eden Ayakkabı +1"},  {15162, "Mest Eden Ayakkabı +2"},
+                   {15163, "Mest Eden Ayakkabı +3"},  {15164, "Mest Eden Ayakkabı +4"},  {15165, "Mest Eden Ayakkabı +5"},
+                   {15166, "Mest Eden Ayakkabı +6"},  {15167, "Mest Eden Ayakkabı +7"},  {15168, "Mest Eden Ayakkabı +8"},
+                   {15169, "Mest Eden Ayakkabı +9"},
+
+                   // Işık Saçan Çizme
+                   {15180, "Işık Saçan Çizme"},  {15181, "Işık Saçan Çizme +1"},  {15182, "Işık Saçan Çizme +2"},
+                   {15183, "Işık Saçan Çizme +3"},  {15184, "Işık Saçan Çizme +4"},  {15185, "Işık Saçan Çizme +5"},
+                   {15186, "Işık Saçan Çizme +6"},  {15187, "Işık Saçan Çizme +7"},  {15188, "Işık Saçan Çizme +8"},
+                   {15189, "Işık Saçan Çizme +9"},
+
+                   // Anka Ayakkabı
+                   {15200, "Anka Ayakkabı"},  {15201, "Anka Ayakkabı +1"},  {15202, "Anka Ayakkabı +2"},
+                   {15203, "Anka Ayakkabı +3"},  {15204, "Anka Ayakkabı +4"},  {15205, "Anka Ayakkabı +5"},
+                   {15206, "Anka Ayakkabı +6"},  {15207, "Anka Ayakkabı +7"},  {15208, "Anka Ayakkabı +8"},
+                   {15209, "Anka Ayakkabı +9"},
+
+                   // Ateş Kuşu Çizmesi
+                   {15220, "Ateş Kuşu Çizmesi"},  {15221, "Ateş Kuşu Çizmesi +1"},  {15222, "Ateş Kuşu Çizmesi +2"},
+                   {15223, "Ateş Kuşu Çizmesi +3"},  {15224, "Ateş Kuşu Çizmesi +4"},  {15225, "Ateş Kuşu Çizmesi +5"},
+                   {15226, "Ateş Kuşu Çizmesi +6"},  {15227, "Ateş Kuşu Çizmesi +7"},  {15228, "Ateş Kuşu Çizmesi +8"},
+                   {15229, "Ateş Kuşu Çizmesi +9"},
+
+                   // Savaş Kalkanı
+                   {13000, "Savaş Kalkanı"},  {13001, "Savaş Kalkanı +1"},  {13002, "Savaş Kalkanı +2"},
+                   {13003, "Savaş Kalkanı +3"},  {13004, "Savaş Kalkanı +4"},  {13005, "Savaş Kalkanı +5"},
+                   {13006, "Savaş Kalkanı +6"},  {13007, "Savaş Kalkanı +7"},  {13008, "Savaş Kalkanı +8"},
+                   {13009, "Savaş Kalkanı +9"},
+
+                   // Beşgen Kalkan
+                   {13020, "Beşgen Kalkan"},  {13021, "Beşgen Kalkan +1"},  {13022, "Beşgen Kalkan +2"},
+                   {13023, "Beşgen Kalkan +3"},  {13024, "Beşgen Kalkan +4"},  {13025, "Beşgen Kalkan +5"},
+                   {13026, "Beşgen Kalkan +6"},  {13027, "Beşgen Kalkan +7"},  {13028, "Beşgen Kalkan +8"},
+                   {13029, "Beşgen Kalkan +9"},
+
+                   // Siyah Yuvarlak Kalkan
+                   {13040, "Siyah Yuvarlak Kalkan"},  {13041, "Siyah Yuvarlak Kalkan +1"},  {13042, "Siyah Yuvarlak Kalkan +2"},
+                   {13043, "Siyah Yuvarlak Kalkan +3"},  {13044, "Siyah Yuvarlak Kalkan +4"},  {13045, "Siyah Yuvarlak Kalkan +5"},
+                   {13046, "Siyah Yuvarlak Kalkan +6"},  {13047, "Siyah Yuvarlak Kalkan +7"},  {13048, "Siyah Yuvarlak Kalkan +8"},
+                   {13049, "Siyah Yuvarlak Kalkan +9"},
+
+                   // Şahin Kalkanı
+                   {13060, "Şahin Kalkanı"},  {13061, "Şahin Kalkanı +1"},  {13062, "Şahin Kalkanı +2"},
+                   {13063, "Şahin Kalkanı +3"},  {13064, "Şahin Kalkanı +4"},  {13065, "Şahin Kalkanı +5"},
+                   {13066, "Şahin Kalkanı +6"},  {13067, "Şahin Kalkanı +7"},  {13068, "Şahin Kalkanı +8"},
+                   {13069, "Şahin Kalkanı +9"},
+
+                   // Kaplan Kalkanı
+                   {13080, "Kaplan Kalkanı"},  {13081, "Kaplan Kalkanı +1"},  {13082, "Kaplan Kalkanı +2"},
+                   {13083, "Kaplan Kalkanı +3"},  {13084, "Kaplan Kalkanı +4"},  {13085, "Kaplan Kalkanı +5"},
+                   {13086, "Kaplan Kalkanı +6"},  {13087, "Kaplan Kalkanı +7"},  {13088, "Kaplan Kalkanı +8"},
+                   {13089, "Kaplan Kalkanı +9"},
+
+                   // Aslan Ağzı Kalkan
+                   {13100, "Aslan Ağzı Kalkan"},  {13101, "Aslan Ağzı Kalkan +1"},  {13102, "Aslan Ağzı Kalkan +2"},
+                   {13103, "Aslan Ağzı Kalkan +3"},  {13104, "Aslan Ağzı Kalkan +4"},  {13105, "Aslan Ağzı Kalkan +5"},
+                   {13106, "Aslan Ağzı Kalkan +6"},  {13107, "Aslan Ağzı Kalkan +7"},  {13108, "Aslan Ağzı Kalkan +8"},
+                   {13109, "Aslan Ağzı Kalkan +9"},
+
+                   // Ejderha Pulu Kalkan
+                   {13120, "Ejderha Pulu Kalkan"},  {13121, "Ejderha Pulu Kalkan +1"},  {13122, "Ejderha Pulu Kalkan +2"},
+                   {13123, "Ejderha Pulu Kalkan +3"},  {13124, "Ejderha Pulu Kalkan +4"},  {13125, "Ejderha Pulu Kalkan +5"},
+                   {13126, "Ejderha Pulu Kalkan +6"},  {13127, "Ejderha Pulu Kalkan +7"},  {13128, "Ejderha Pulu Kalkan +8"},
+                   {13129, "Ejderha Pulu Kalkan +9"},
+
+                   // Titan Kalkanı
+                   {13140, "Titan Kalkanı"},  {13141, "Titan Kalkanı +1"},  {13142, "Titan Kalkanı +2"},
+                   {13143, "Titan Kalkanı +3"},  {13144, "Titan Kalkanı +4"},  {13145, "Titan Kalkanı +5"},
+                   {13146, "Titan Kalkanı +6"},  {13147, "Titan Kalkanı +7"},  {13148, "Titan Kalkanı +8"},
+                   {13149, "Titan Kalkanı +9"},
+
+                   // Üç İmparator Kalkanı
+                   {13160, "Üç İmparator Kalkanı"},  {13161, "Üç İmparator Kalkanı +1"},  {13162, "Üç İmparator Kalkanı +2"},
+                   {13163, "Üç İmparator Kalkanı +3"},  {13164, "Üç İmparator Kalkanı +4"},  {13165, "Üç İmparator Kalkanı +5"},
+                   {13166, "Üç İmparator Kalkanı +6"},  {13167, "Üç İmparator Kalkanı +7"},  {13168, "Üç İmparator Kalkanı +8"},
+                   {13169, "Üç İmparator Kalkanı +9"},
+
+                   // Parlak Kalkan
+                   {13180, "Parlak Kalkan"},  {13181, "Parlak Kalkan +1"},  {13182, "Parlak Kalkan +2"},
+                   {13183, "Parlak Kalkan +3"},  {13184, "Parlak Kalkan +4"},  {13185, "Parlak Kalkan +5"},
+                   {13186, "Parlak Kalkan +6"},  {13187, "Parlak Kalkan +7"},  {13188, "Parlak Kalkan +8"},
+                   {13189, "Parlak Kalkan +9"},
+
+                   // Geleneksel Miğfer
+                   {12200, "Geleneksel Miğfer"},  {12201, "Geleneksel Miğfer +1"},  {12202, "Geleneksel Miğfer +2"},
+                   {12203, "Geleneksel Miğfer +3"},  {12204, "Geleneksel Miğfer +4"},  {12205, "Geleneksel Miğfer +5"},
+                   {12206, "Geleneksel Miğfer +6"},  {12207, "Geleneksel Miğfer +7"},  {12208, "Geleneksel Miğfer +8"},
+                   {12209, "Geleneksel Miğfer +9"},
+
+                   // Demir Kask
+                   { 12220, "Demir Kask"},  { 12221, "Demir Kask +1"},  { 12222, "Demir Kask +2"},
+                   { 12223, "Demir Kask +3"},  { 12224, "Demir Kask +4"},  { 12225, "Demir Kask +5"},
+                   { 12226, "Demir Kask +6"},  { 12227, "Demir Kask +7"},  { 12228, "Demir Kask +8"},
+                   { 12229, "Demir Kask +9"},
+
+                   // Hayalet Maske Başlık
+                   { 12240, "Hayalet Maske Başlık"},  { 12241, "Hayalet Maske Başlık +1"},  { 12242, "Hayalet Maske Başlık +2"},
+                   { 12243, "Hayalet Maske Başlık +3"},  { 12244, "Hayalet Maske Başlık +4"},  { 12245, "Hayalet Maske Başlık +5"},
+                   { 12246, "Hayalet Maske Başlık +6"},  { 12247, "Hayalet Maske Başlık +7"},  { 12248, "Hayalet Maske Başlık +8"},
+                   { 12249, "Hayalet Maske Başlık +9"},
+
+                   // Korku Maskesi
+                   { 12260, "Korku Maskesi"},  { 12261, "Korku Maskesi +1"},  { 12262, "Korku Maskesi +2"},
+                   { 12263, "Korku Maskesi +3"},  { 12264, "Korku Maskesi +4"},  { 12265, "Korku Maskesi +5"},
+                   { 12266, "Korku Maskesi +6"},  { 12267, "Korku Maskesi +7"},  { 12268, "Korku Maskesi +8"},
+                   {12269, "Korku Maskesi +9"},
+
+                   // Usta Savaşçı Kaskı
+                   { 12280, "Usta Savaşçı Kaskı"},  { 12281, "Usta Savaşçı Kaskı +1"},  { 12282, "Usta Savaşçı Kaskı +2"},
+                   { 12283, "Usta Savaşçı Kaskı +3"},  { 12284, "Usta Savaşçı Kaskı +4"},  { 12285, "Usta Savaşçı Kaskı +5"},
+                   { 12286, "Usta Savaşçı Kaskı +6"},  { 12287, "Usta Savaşçı Kaskı +7"},  { 12288, "Usta Savaşçı Kaskı +8"},
+                   { 12289, "Usta Savaşçı Kaskı +9"},
+
+                   // Deri Kapşon
+                   { 12340, "Deri Kapşon"},  { 12341, "Deri Kapşon +1"},  {12342, "Deri Kapşon +2"},
+                   {12343, "Deri Kapşon +3"},  {12344, "Deri Kapşon +4"},  {12345, "Deri Kapşon +5"},
+                   {12346, "Deri Kapşon +6"},  {12347, "Deri Kapşon +7"},  {12348, "Deri Kapşon +8"},
+                   {12349, "Deri Kapşon +9"},
+
+                   // Zincir Kapşon
+                   { 12360, "Zincir Kapşon"},  {12361, "Zincir Kapşon +1"},  {12362, "Zincir Kapşon +2"},
+                   {12363, "Zincir Kapşon +3"},  {12364, "Zincir Kapşon +4"},  {12365, "Zincir Kapşon +5"},
+                   {12366, "Zincir Kapşon +6"},  {12367, "Zincir Kapşon +7"},  {12368, "Zincir Kapşon +8"},
+                   {12369, "Zincir Kapşon +9"},
+
+                   // Çelik Kapşon
+                   { 12380, "Çelik Kapşon"},  {12381, "Çelik Kapşon +1"},  {12382, "Çelik Kapşon +2"},
+                   {12383, "Çelik Kapşon +3"},  {12384, "Çelik Kapşon +4"},  {12385, "Çelik Kapşon +5"},
+                   {12386, "Çelik Kapşon +6"},  {12387, "Çelik Kapşon +7"},  {12388, "Çelik Kapşon +8"},
+                   {12389, "Çelik Kapşon +9"},
+
+                   // Ork Kapşonu
+                   { 12390, "Ork Kapşonu"},  {12391, "Ork Kapşonu +1"},  {12392, "Ork Kapşonu +2"},
+                   {12393, "Ork Kapşonu +3"},  {12394, "Ork Kapşonu +4"},  {12395, "Ork Kapşonu +5"},
+                   {12396, "Ork Kapşonu +6"},  {12397, "Ork Kapşonu +7"},  {12398, "Ork Kapşonu +8"},
+                   {12399, "Ork Kapşonu +9"},
+
+                   // Örümcek Kapşon
+                   { 12400, "Örümcek Kapşon"},  { 12401, "Örümcek Kapşon +1"},  { 12402, "Örümcek Kapşon +2"},
+                   { 12403, "Örümcek Kapşon +3"},  { 12404, "Örümcek Kapşon +4"},  {12405, "Örümcek Kapşon +5"},
+                   { 12406, "Örümcek Kapşon +6"},  { 12407, "Örümcek Kapşon +7"},  { 12408, "Örümcek Kapşon +8"},
+                   {12409, "Örümcek Kapşon +9"},
+
+                   // Kanlı Kask
+                   { 12480, "Kanlı Kask"},  {12481, "Kanlı Kask +1"},  {12482, "Kanlı Kask +2"},
+                   {12483, "Kanlı Kask +3"},  {12484, "Kanlı Kask +4"},  {12485, "Kanlı Kask +5"},
+                   {12486, "Kanlı Kask +6"},  {12487, "Kanlı Kask +7"},  {12488, "Kanlı Kask +8"},
+                   {12489, "Kanlı Kask +9"},
+
+                   // Alaycı Kask
+                   { 12500, "Alaycı Kask"},  { 12501, "Alaycı Kask +1"},  { 12502, "Alaycı Kask +2"},
+                   { 12503, "Alaycı Kask +3"},  { 12504, "Alaycı Kask +4"},  { 12505, "Alaycı Kask +5"},
+                   { 12506, "Alaycı Kask +6"},  { 12507, "Alaycı Kask +7"},  { 12508, "Alaycı Kask +8"},
+                   {12509, "Alaycı Kask +9"},
+
+                   // Kale Kask
+                   { 12520, "Kale Kask"},  {12521, "Kale Kask +1"},  {12522, "Kale Kask +2"},
+                   {12523, "Kale Kask +3"},  {12524, "Kale Kask +4"},  {12525, "Kale Kask +5"},
+                   {12526, "Kale Kask +6"},  {12527, "Kale Kask +7"},  {12528, "Kale Kask +8"},
+                   {12529, "Kale Kask +9"},
+
+                   // Boynuzlu Kask
+                   { 12530, "Boynuzlu Kask"},  {12531, "Boynuzlu Kask +1"},  {12532, "Boynuzlu Kask +2"},
+                   {12533, "Boynuzlu Kask +3"},  {12534, "Boynuzlu Kask +4"},  {12535, "Boynuzlu Kask +5"},
+                   {12536, "Boynuzlu Kask +6"},  {12537, "Boynuzlu Kask +7"},  {12538, "Boynuzlu Kask +8"},
+                   {12539, "Boynuzlu Kask +9"},
+
+                   // Büyülü Kask
+                   { 12540, "Büyülü Kask"},  {12541, "Büyülü Kask +1"},  {12542, "Büyülü Kask +2"},
+                   {12543, "Büyülü Kask +3"},  {12544, "Büyülü Kask +4"},  {12545, "Büyülü Kask +5"},
+                   {12546, "Büyülü Kask +6"},  {12547, "Büyülü Kask +7"},  {12548, "Büyülü Kask +8"},
+                   {12549, "Büyülü Kask +9"},
+
+                   // Kesiş Şapkası
+                       { 12620, "Kesiş Şapkası"},  {12621, "Kesiş Şapkası +1"},  {12622, "Kesiş Şapkası +2"},
+                       {12623, "Kesiş Şapkası +3"},  {12624, "Kesiş Şapkası +4"},  {12625, "Kesiş Şapkası +5"},
+                       {12626, "Kesiş Şapkası +6"},  {12627, "Kesiş Şapkası +7"},  {12628, "Kesiş Şapkası +8"},
+                       {12629, "Kesiş Şapkası +9"},
+
+                       // Anka Şapkası
+                       { 12640, "Anka Şapkası"},  { 12641, "Anka Şapkası +1"},  { 12642, "Anka Şapkası +2"},
+                       { 12643, "Anka Şapkası +3"},  { 12644, "Anka Şapkası +4"},  { 12645, "Anka Şapkası +5"},
+                       { 12646, "Anka Şapkası +6"},  { 12647, "Anka Şapkası +7"},  { 12648, "Anka Şapkası +8"},
+                       {12649, "Anka Şapkası +9"},
+
+                       // Gün Işığı Şapka
+                       { 12660, "Gün Işığı Şapka"},  { 12661, "Gün Işığı Şapka +1"},  { 12662, "Gün Işığı Şapka +2"},
+                       { 12663, "Gün Işığı Şapka +3"},  { 12664, "Gün Işığı Şapka +4"},  { 12665, "Gün Işığı Şapka +5"},
+                       { 12666, "Gün Işığı Şapka +6"},  { 12667, "Gün Işığı Şapka +7"},  { 12668, "Gün Işığı Şapka +8"},
+                       {12669, "Gün Işığı Şapka +9"},
+
+                       // Kardinal Şapkası
+                       { 12670, "Kardinal Şapkası"},  {12671, "Kardinal Şapkası +1"},  {12672, "Kardinal Şapkası +2"},
+                       {12673, "Kardinal Şapkası +3"},  {12674, "Kardinal Şapkası +4"},  {12675, "Kardinal Şapkası +5"},
+                       {12676, "Kardinal Şapkası +6"},  {12677, "Kardinal Şapkası +7"},  {12678, "Kardinal Şapkası +8"},
+                       {12679, "Kardinal Şapkası +9"},
+
+                       // Ruh Yongası Şapkası
+                       { 12680, "Ruh Yongası Şapkası"},  {12681, "Ruh Yongası Şapkası +1"},  {12682, "Ruh Yongası Şapkası +2"},
+                       {12683, "Ruh Yongası Şapkası +3"},  {12684, "Ruh Yongası Şapkası +4"},  {12685, "Ruh Yongası Şapkası +5"},
+                       {12686, "Ruh Yongası Şapkası +6"},  {12687, "Ruh Yongası Şapkası +7"},  {12688, "Ruh Yongası Şapkası +8"},
+                       {12689, "Ruh Yongası Şapkası +9"},
+
+                       {30005, "Kırık Zırh Parçası"},  {30006, "Ork Dişi"},  {30077, "Ork Dişi +"},
+                       {30008, "Başlangıç El Kitabı"},  {30078, "Başlangıç El Kitabı +"},
+                       {30009, "Bilinmeyen İlaç"},  {30083, "Bilinmeyen İlaç +"},
+                       {30014, "Yeti Postu"},  {30089, "Yeti Postu +"},
+                       {30015, "Şeytan Hatırası"},  {30086, "Şeytan Hatırası +"},
+                       {30016, "Şeytan Mücevheri"},  {30087, "Şeytan Mücevheri +"},
+                       {30019, "Alev Yelesi"},
+                       {30021, "Değerli Taş Parçası"},  {30022, "Yılan Kuyruğu"},
+                       {30082, "Yılan Kuyruğu +"},  {30039, "Sargı Bezi"},
+                       {30085, "Sargı Bezi +"},  {30040, "Yaprak"},
+                       {30042, "Saldırgan Kaplan Dişi"},  {30047, "Laneti Kitabı"},
+                       {30080, "Laneti Kitabı +"},  {30048, "Buz Parçası"},
+                       {30088, "Buz Parçası +"},  {30049, "Katı Buz Balina Boynuzu"},
+                       {30050, "Buz Topu"},  {30090, "Buz Küresi +"},
+                       {30051, "Bilinmeyen Tılsım"},  {30079, "Bilinmeyen Tılsım +"},
+                       {30056, "Örümcek Ağı"},  {30060, "Kurbağa Dili"},
+                       {30061, "Kurbağa Bağı"},  {30067, "Yılan Derisi"},
+                       {30091, "Savaşçı Sembolü"},  {30059, "Örümcek Bacakları"},
+                       {30046, "Akrep Kuyruğu"},  {30081, "Akrep Kuyruğu +"},
+                       {30057, "Örümcek Gözleri"},  {30045, "Akrep İğnesi"},
+                       {30041, "Shuriken"},  {30075, "Shuriken +"},
+                       {30025, "Örümceğin Zehir Kesesi"},  {30030, "Paslı Bıçak"},
+                       {30058, "Örümcek Yumurtası Kesesi"},  {30192, "Süt Şerbeti"},
+                       {30193, "Parmak Kemikleri"},  {30194, "Ork Topuzu"},
+                       {30195, "Kuvars Kum"},  {30196, "Şeytan Kulu"},
+                       {30197, "Büyülü Tohum"},  {30198, "Su Kristali"},
+                       {30199, "Mavi Kristal"},  {30203, "Kristal"},
+                       {71123, "Ejderha Pulu"},  {71129, "Ejderha Pençesi"},
+                       {70031, "Eksrim Brosürü"},  {70032, "Çift El Kılıç Kılavuzu"},
+                       {70033, "Tek El Kılıç Kılavuzu"},  {27799, "Kılçık"},
+                       {27987, "İstiridye"},  {27992, "Beyaz İnci"},
+                       {27993, "Mavi İnci"},  {27994, "Kırmızı İnci"},
+                       {30007, "Ork Muskası"}, { 30008, "Ork Muskası +" }, {30018, "Beyaz Domuz Kurdelası"},
+                       {30055, "Akrep Kıskaç"},  {30116, "Kurbağa Arka Bacakları"},
+
+                       {50312, "Shinsoo Dil Kitabı"},  {50315, "Chunjo Dil Kitabı"},
+                       {50313, "Jinno Dil Kitabı"},  {50314, "Dönüşüm Kitabı 1"},
+                       {50315, "Dönüşüm Kitabı 2"},
+                       {50316, "Dönüşüm Kitabı 3"},
+                       {50600, "Madencilik Kitap"},
+                       {50304, "Combo Kitabı 1"},
+                       {50305, "Combo Kitabı 2"},
+                       {50306, "Combo Kitabı 3"},
+                       {50301, "Sun Zi Savaş Sanatı"},
+                       {50302, "Wu Zi Savaş Sanatı"},
+                       {50303, "Weiliao Zi Savaş Sanatı"},
+                       {50307, "Görevi Kitabı Kolay"},
+                       {50318, "Görevi Kitabı Kolay ID"},
+                       {50308, "Görev Kitabı Orta"},
+                       {50319, "Görev Kitabı Orta ID"},
+                       {50309, "Görev Kitabı Zor"},
+                       {50320, "Görev Kitabı Zor ID"},
+                       {50310, "Görev Kitabı Uzman"},
+                       {50321, "Görev Kitabı Uzman ID"},
+                       {71084 , "Efsun Nesnesi" },
+                       {71085, "Arttırma Kağıdı" },
+                       {70024 , "Kutsama Küresi" },
+                   { 30003,"Domuz Burnu" },
+                   { 30004, "Yaban Domuzu Dişi" },
+                   { 30007, "Ork Muskası" },
+                   { 30076, "Ork Muskası +" },
+                   { 30010, "Ayı Safrası" },
+                   { 30071, "Ayı Safrası +" },
+                   { 30011, "Çile" },
+                   { 30017, "Süslü Saç Tokası" },
+                   { 30020, "Şeftali Tohumu" },
+                   { 30023, "Beyaz Kaplan Postu" },
+                   { 30024, "At Kuyruğu" },
+                   { 30026, "Kurt Bağırsağı" },
+                   { 30027, "Kurt Postu" },
+                   { 30028, "Kurt Pençesi" },
+                   { 30069, "Kurt Pençesi +" },
+                   { 30029, "Kurt Karaciğeri" },
+                   { 30031, "Süs Eşyası" },
+                   { 30032, "Siyah Üniforma" },
+                   { 30074, "Siyah Üniforma +" },
+                   { 30033, "Kırık Porselen" },
+                   { 30034, "B.Domuzkuyruğu Kurdele" },
+                   { 30073, "B.Domuzkuyruğu Kurdele +" },
+                   { 30037, "Kaplan Pençesi" },
+                   { 30038, "Kaplan Postu" },
+                   { 30105, "Akrep Kuyruğu +" },
+                   { 30052, "Bayrak" },
+                   { 30053, "Ayı Ayak Derisi" },
+                   { 30072, "Ayı Ayak Derisi +" },
+                   { 30151, "Kurt Postu" },
+                   { 30146, "Buz Parçası" },
+                   { 30152, "İlaç" },
+                   { 71020, "Ejderha Kutsaması" },
+                   { 71027, "Ejderha Tanrı Yaşam" },
+                   { 71028, "Ejderha Tanrı Atak" },
+                   { 71029, "Ejderha Tanrı Büyü" },
+                   { 71030, "Ejderha Tanrı Savunma" },
+                   { 12299, "Kutsama Kağıdı" },
+                   { 71045, "Delici İsabet" },
+                   { 71044, "Kritik İsabet" },
+                   { 27999, "Zihin Taşı Kesesi" },
+                   { 50061, "At Evcilleştirme Kitabı" },
+                   { 25100, "Zihin Taşı Kağıdı" },
+                   { 79505, "Okey koleksiyon kartı" },
+                   { 30269, "Madalya parçası" },
+                   { 25040, "Kutsama Kağıdı" },
+                   { 50006, "Altın Define Sandığı" },
+                   { 50007, "Gümüş Define Sandığı" },
+                   { 50009 , "Gümüş Anahtar" },
+
+                   { 2000,"Yay" },
+                   { 2001, "Yay +1" },
+                   { 2002, "Yay +2" },
+                   { 2003, "Yay +3" },
+                   { 2004, "Yay +4" },
+                   { 2005, "Yay +5" },
+                   { 2006, "Yay +6" },
+                   { 2007, "Yay +7" },
+                   { 2008, "Yay +8" },
+                   { 2009, "Yay +9" },
+
+                   { 2010, "Uzun Yay" },
+                   { 2011, "Uzun Yay +1" },
+                   { 2012, "Uzun Yay +2" },
+                   { 2013, "Uzun Yay +3" },
+                   { 2014, "Uzun Yay +4" },
+                   { 2015, "Uzun Yay +5" },
+                   { 2016, "Uzun Yay +6" },
+                   { 2017, "Uzun Yay +7" },
+                   { 2018, "Uzun Yay +8" },
+                   { 2019, "Uzun Yay +9" },
+
+                   { 2020, "Birleşik Yay" },
+                   { 2021, "Birleşik Yay +1" },
+                   { 2022, "Birleşik Yay +2" },
+                   { 2023, "Birleşik Yay +3" },
+                   { 2024, "Birleşik Yay +4" },
+                   { 2025, "Birleşik Yay +5" },
+                   { 2026, "Birleşik Yay +6" },
+                   { 2027, "Birleşik Yay +7" },
+                   { 2028, "Birleşik Yay +8" },
+                   { 2029, "Birleşik Yay +9" },
+
+                   { 2030, "Harp Yay" },
+                   { 2031, "Harp Yay +1" },
+                   { 2032, "Harp Yay +2" },
+                   { 2033, "Harp Yay +3" },
+                   { 2034, "Harp Yay +4" },
+                   { 2035, "Harp Yay +5" },
+                   { 2036, "Harp Yay +6" },
+                   { 2037, "Harp Yay +7" },
+                   { 2038, "Harp Yay +8" },
+                   { 2039, "Harp Yay +9" },
+
+                   { 2040, "Atsırtı Uzun Yay" },
+                   { 2041, "Atsırtı Uzun Yay +1" },
+                   { 2042, "Atsırtı Uzun Yay +2" },
+                   { 2043, "Atsırtı Uzun Yay +3" },
+                   { 2044, "Atsırtı Uzun Yay +4" },
+                   { 2045, "Atsırtı Uzun Yay +5" },
+                   { 2046, "Atsırtı Uzun Yay +6" },
+                   { 2047, "Atsırtı Uzun Yay +7" },
+                   { 2048, "Atsırtı Uzun Yay +8" },
+                   { 2049, "Atsırtı Uzun Yay +9" },
+
+                   { 2050, "Atsırtı Savaş" },
+                   { 2051, "Atsırtı Savaş +1" },
+                   { 2052, "Atsırtı Savaş +2" },
+                   { 2053, "Atsırtı Savaş +3" },
+                   { 2054, "Atsırtı Savaş +4" },
+                   { 2055, "Atsırtı Savaş +5" },
+                   { 2056, "Atsırtı Savaş +6" },
+                   { 2057, "Atsırtı Savaş +7" },
+                   { 2058, "Atsırtı Savaş +8" },
+                   { 2059, "Atsırtı Savaş +9" },
+
+                   { 2060, "Bakır İşçiliği Yay" },
+                   { 2061, "Bakır İşçiliği Yay +1" },
+                   { 2062, "Bakır İşçiliği Yay +2" },
+                   { 2063, "Bakır İşçiliği Yay +3" },
+                   { 2064, "Bakır İşçiliği Yay +4" },
+                   { 2065, "Bakır İşçiliği Yay +5" },
+                   { 2066, "Bakır İşçiliği Yay +6" },
+                   { 2067, "Bakır İşçiliği Yay +7" },
+                   { 2068, "Bakır İşçiliği Yay +8" },
+                   { 2069, "Bakır İşçiliği Yay +9" },
+
+                   { 2070, "Kara Yıkım Yay" },
+                   { 2071, "Kara Yıkım Yay +1" },
+                   { 2072, "Kara Yıkım Yay +2" },
+                   { 2073, "Kara Yıkım Yay +3" },
+                   { 2074, "Kara Yıkım Yay +4" },
+                   { 2075, "Kara Yıkım Yay +5" },
+                   { 2076, "Kara Yıkım Yay +6" },
+                   { 2077, "Kara Yıkım Yay +7" },
+                   { 2078, "Kara Yıkım Yay +8" },
+                   { 2079, "Kara Yıkım Yay +9" },
+
+                   { 2080, "Kırmızı Göz Yay" },
+                   { 2081, "Kırmızı Göz Yay +1" },
+                   { 2082, "Kırmızı Göz Yay +2" },
+                   { 2083, "Kırmızı Göz Yay +3" },
+                   { 2084, "Kırmızı Göz Yay +4" },
+                   { 2085, "Kırmızı Göz Yay +5" },
+                   { 2086, "Kırmızı Göz Yay +6" },
+                   { 2087, "Kırmızı Göz Yay +7" },
+                   { 2088, "Kırmızı Göz Yay +8" },
+                   { 2089, "Kırmızı Göz Yay +9" },
+
+                   { 2090,"Dikenli Yaprak Yay" },
+                   { 2091, "Dikenli Yaprak Yay +1" },
+                   { 2092, "Dikenli Yaprak Yay +2" },
+                   { 2093, "Dikenli Yaprak Yay +3" },
+                   { 2094, "Dikenli Yaprak Yay +4" },
+                   { 2095, "Dikenli Yaprak Yay +5" },
+                   { 2096, "Dikenli Yaprak Yay +6" },
+                   { 2097, "Dikenli Yaprak Yay +7" },
+                   { 2098, "Dikenli Yaprak Yay +8" },
+                   { 2099, "Dikenli Yaprak Yay +9" },
+
+                   { 2100, "Boğa Boynuzu Yay" },
+                   { 2101, "Boğa Boynuzu Yay +1" },
+                   { 2102, "Boğa Boynuzu Yay +2" },
+                   { 2103, "Boğa Boynuzu Yay +3" },
+                   { 2104, "Boğa Boynuzu Yay +4" },
+                   { 2105, "Boğa Boynuzu Yay +5" },
+                   { 2106, "Boğa Boynuzu Yay +6" },
+                   { 2107, "Boğa Boynuzu Yay +7" },
+                   { 2108, "Boğa Boynuzu Yay +8" },
+                   { 2109, "Boğa Boynuzu Yay +9" },
+
+                   { 2110, "Tek Boynuzlu Yay" },
+                   { 2111, "Tek Boynuzlu Yay +1" },
+                   { 2112, "Tek Boynuzlu Yay +2" },
+                   { 2113, "Tek Boynuzlu Yay +3" },
+                   { 2114, "Tek Boynuzlu Yay +4" },
+                   { 2115, "Tek Boynuzlu Yay +5" },
+                   { 2116, "Tek Boynuzlu Yay +6" },
+                   { 2117, "Tek Boynuzlu Yay +7" },
+                   { 2118, "Tek Boynuzlu Yay +8" },
+                   { 2119, "Tek Boynuzlu Yay +9" },
+
+                   { 2120, "Dev Kanatlı Yay" },
+                   { 2121, "Dev Kanatlı Yay +1" },
+                   { 2122, "Dev Kanatlı Yay +2" },
+                   { 2123, "Dev Kanatlı Yay +3" },
+                   { 2124, "Dev Kanatlı Yay +4" },
+                   { 2125, "Dev Kanatlı Yay +5" },
+                   { 2126, "Dev Kanatlı Yay +6" },
+                   { 2127, "Dev Kanatlı Yay +7" },
+                   { 2128, "Dev Kanatlı Yay +8" },
+                   { 2129, "Dev Kanatlı Yay +9" },
+
+                   { 2130, "Kutsal Sert Yay" },
+                   { 2131, "Kutsal Sert Yay +1" },
+                   { 2132, "Kutsal Sert Yay +2" },
+                   { 2133, "Kutsal Sert Yay +3" },
+                   { 2134, "Kutsal Sert Yay +4" },
+                   { 2135, "Kutsal Sert Yay +5" },
+                   { 2136, "Kutsal Sert Yay +6" },
+                   { 2137, "Kutsal Sert Yay +7" },
+                   { 2138, "Kutsal Sert Yay +8" },
+                   { 2139, "Kutsal Sert Yay +9" },
+
+                   { 2140, "Sarı Ejderha Yayı" },
+                   { 2141, "Sarı Ejderha Yayı +1" },
+                   { 2142, "Sarı Ejderha Yayı +2" },
+                   { 2143, "Sarı Ejderha Yayı +3" },
+                   { 2144, "Sarı Ejderha Yayı +4" },
+                   { 2145, "Sarı Ejderha Yayı +5" },
+                   { 2146, "Sarı Ejderha Yayı +6" },
+                   { 2147, "Sarı Ejderha Yayı +7" },
+                   { 2148, "Sarı Ejderha Yayı +8" },
+                   { 2149, "Sarı Ejderha Yayı +9" },
+
+                   { 2160, "Geyik Boynuzu Yay" },
+                   { 2161, "Geyik Boynuzu Yay +1" },
+                   { 2162, "Geyik Boynuzu Yay +2" },
+                   { 2163, "Geyik Boynuzu Yay +3" },
+                   { 2164, "Geyik Boynuzu Yay +4" },
+                   { 2165, "Geyik Boynuzu Yay +5" },
+                   { 2166, "Geyik Boynuzu Yay +6" },
+                   { 2167, "Geyik Boynuzu Yay +7" },
+                   { 2168, "Geyik Boynuzu Yay +8" },
+                   { 2169, "Geyik Boynuzu Yay +9" },
+
+                   { 39028, "Efsun Nesnesi mob" },
+                   { 39001,"Büyülü Metal" },
+                   { 39020,"Ejderha Tanrı Savunma" },
+                   { 39017,"Ejderha Tanrı Yaşam" },
+                   { 39019,"Ejderha Tanrı Zeka" },
+
+                   { 50011,"Ayışığı Define Sandığı" },
+                   { 50183,"Tatlılar" },
+                   { 39007,"Demircinin El Kitabı" },
+                   { 39004,"Kutsama Küresi" },
+                   { 39008,"Kötü Ruh Kovma Kağıdı" },
+                   { 39030,"Münzevi Tavsiyesi" },
+                   { 50265,"Altın Futbol Topu" },
+                   { 50096 , "Futbol Topu" },
+                   { 70014,"Kan Hapı" },
+                   { 50300,"Beceri Kitabı" },
+                   { 70008,"Beyaz Bayrak" },
+                   { 50513,"Ruh Taşı" },
+                   { 27105,"Mor Pot Büyük" },
+                   { 50050,"At Madalyonu" },
+                   { 30321,"Cadılar Bayramı Kabağı" },
+                   { 30336,"Bal Kabağı Feneri" }
